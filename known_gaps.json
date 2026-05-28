@@ -3,7 +3,33 @@
     "reason": "Whiplash is Y8S1 end-of-season reward — available after week 9 climax mission",
     "expires": "2026-06-01",
     "gaps": [
-      { "file": "weapons/pistols.csv", "name": "Whiplash", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range"] }
+      { "file": "weapons/pistols.csv", "name": "Whiplash", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "hsd"] }
+    ]
+  },
+  {
+    "reason": "Caduceus: Y8S2 Content",
+    "expires": "2026-08-01",
+    "gaps": [
+      { "file": "weapons/assault_rifles.csv", "name": "Caduceus", "columns": ["family", "base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "hsd"] },
+      { "file": "weapons/weapon_mods.csv", "name": "Caduceus Optics", "columns": ["stats"] },
+      { "file": "weapons/weapon_mods.csv", "name": "Caduceus Magazine", "columns": ["stats"] },
+      { "file": "weapons/weapon_mods.csv", "name": "Caduceus Muzzle", "columns": ["stats"] },
+      { "file": "weapons/weapon_mods.csv", "name": "Caduceus Underbarrel", "columns": ["stats"] }
+    ]
+  },
+  {
+    "reason": "Y8S2 Named Weapons",
+    "expires": "2026-08-01",
+    "gaps": [
+      { "file": "weapons/lmgs.csv", "name": "Insult To Injury", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "hsd"] },
+      { "file": "weapons/rifles.csv", "name": "Brain Break", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "hsd"] }
+    ]
+  },
+  {
+    "reason": "Underboss: Y8S2 exotic SMG — only the family (SMG) and talent are known; all stats and mod slots unconfirmed",
+    "expires": "2026-08-01",
+    "gaps": [
+      { "file": "weapons/smgs.csv", "name": "Underboss", "columns": ["family", "base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "hsd", "optics", "magazine", "muzzle", "underbarrel"] }
     ]
   }
 ]
