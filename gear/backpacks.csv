@@ -13,6 +13,7 @@ Uzina Getica,N/A,Uzina Getica Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:g
 Yaahl Gear,N/A,Yaahl Gear Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Alps Summit Armaments,N/A,Alps Summit Armaments Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 China Light Industries,N/A,China Light Industries Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Edelweiss GPz,N/A,Edelweiss GPz Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Electrique,N/A,Electrique Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Empress International,N/A,Empress International Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Hana-U Corporation,N/A,Hana-U Corporation Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
@@ -53,6 +54,7 @@ N/A,Measured Assembly,Measured Assembly Backpack,FALSE,FALSE,type:gear-core,N/A,
 N/A,Negotiator's Dilemma,Negotiator's Dilemma Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Critical Measures,type:gear-mod,N/A,N/A
 N/A,Ongoing Directive,Ongoing Directive Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Trauma Specialist,type:gear-mod,N/A,N/A
 N/A,Ortiz: Exuro,Ortiz: Exuro Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Heatstroke,type:gear-mod,N/A,N/A
+N/A,Ortiz: Reficere,Ortiz: Reficere Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Improved Dampeners,type:gear-mod,N/A,N/A
 N/A,Refactor,Refactor Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Over-engineered,type:gear-mod,N/A,N/A
 N/A,Rigger,Rigger Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Complete Uptime,type:gear-mod,N/A,N/A
 N/A,Striker's Battlegear,Striker's Battlegear Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Risk Management,type:gear-mod,N/A,N/A
@@ -82,6 +84,7 @@ Palisade Steelworks,N/A,Proxy,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,
 Shiny Monkey,N/A,Axel,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Energize,type:gear-mod,N/A,N/A
 Imminence Armaments,N/A,Cap'n,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Leadership,type:gear-mod,N/A,N/A
 Grupo Sombra S.A.,N/A,Festive Delivery,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Fireworks Show,type:gear-mod,N/A,N/A
+Edelweiss GPz,N/A,Momma Badger,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Safeguard,type:gear-mod,N/A,N/A
 N/A,N/A,Acosta's Go-Bag,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
 N/A,N/A,Birdie's Quick Fix Pack,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
 N/A,N/A,Memento,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A

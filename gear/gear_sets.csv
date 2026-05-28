@@ -16,6 +16,7 @@ Measured Assembly,skill-tier,N/A,stat:skill-haste:15%,stat:repair-skills:60%|sta
 Negotiator's Dilemma,weapon-damage,N/A,stat:critical-hit-chance:15%,stat:critical-hit-damage:20%,talent:Crowd Control
 Ongoing Directive,weapon-damage,N/A,stat:status-effects:15%,stat:reload-speed:30%,talent:Rules of Engagement
 Ortiz: Exuro,skill-tier,N/A,stat:burn-duration:20%|stat:skill-health:15%,stat:burn-damage:40%,talent:Ortiz Incinerator Turret Prototype
+Ortiz: Reficere,skill-tier,N/A,stat:skill-efficiency:8%,stat:repair-skills:60%,talent:Ortiz Rapid Application Nanite Prototype
 Refactor,armor,N/A,stat:status-effects:15%,stat:skill-damage:25%,talent:Return to Sender
 Rigger,skill-tier,N/A,stat:skill-haste:15%,stat:skill-duration:15%,talent:Tend and Befriend
 Striker's Battlegear,weapon-damage,N/A,stat:weapon-handling:15%,stat:rate-of-fire:15%,talent:Striker's Gamble

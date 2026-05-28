@@ -16,6 +16,7 @@ Perfect Intimidate,N/A,"While you have bonus armour, gain 3 stacks each second u
 Headhunter,chest,"After killing an enemy with a headshot, your next weapon hit within 30s deals 125% of that killing blow's damage in addition to it. Damage is capped to 800% of your weapon damage. This is raised to 1250% if your headshot damage is greater than 150%."
 Perfect Headhunter,N/A,"After killing an enemy with a headshot, your next weapon hit within 30s deals 150% of that killing blow's damage in addition to it. Damage is capped to 800% of your weapon damage. This is raised to 1250% if your headshot damage is greater than 150%."
 Empathic Resolve,chest,"Repairing an ally, increases their total weapon and skill damage by 3-15% for 10s. 1-7% if self. Effectiveness increased by your skill tier."
+Perfect Empathic Resolve,N/A,"Repairing an ally, increases their total weapon and skill damage by 3-20% for 10s. 1-15% if self. Effectiveness increased by your skill tier."
 Overwatch,chest,"After staying in cover for 10s, increase your and all allies' total weapon and skill damage by 12% as long as you remain in cover or in a cover-to-cover move."
 Perfect Overwatch,N/A,"After staying in cover for 8s, increase your and all allies' total weapon and skill damage by 14% as long as you remain in cover or in a cover-to-cover move."
 Glass Cannon,chest,All damage you deal is amplified by 25%. All damage you take is amplified by 50%.
@@ -68,6 +69,7 @@ Perfect Opportunistic,N/A,Enemies you hit with shotguns and marksman rifles ampl
 Clutch,backpack,"When you are below 15% armor, critical hits repair 2.5% of missing armor. On kill, critical hits repair 2.5% of missing armor for 4 seconds. Lowest possible repair is 0% armour  Each red core attribute adds 1 second to the time. Maximum is 10 seconds."
 Perfect Clutch,N/A,"When you are below 20% armor, critical hits repair 2.5% of missing armor. On kill, critical hits repair 2.5% of missing armor for 4 seconds. Lowest possible repair is 0% armour  Each red core attribute adds 1 second to the time. Maximum is 10 seconds."
 Safeguard,backpack,"While at full armor, increases total skill repair by 130%."
+Perfect Safeguard,N/A,"While at full armor, increases total skill repair by 160%."
 Bloodsucker,backpack,Killing an enemy adds and refreshes a stack of +10% bonus armor for 10s. Max stack is 10.
 Perfect Bloodsucker,N/A,Killing an enemy adds and refreshes a stack of +12% bonus armor for 10s. Max stack is 10.
 Leadership,backpack,Performing a cover to cover grants 15% of your armor as bonus armor to you and all allies for 10s. This is doubled if you end within 10m of an enemy.  Cooldown: 10s.
@@ -101,6 +103,7 @@ Fortissimo,N/A,Double the weapon damage bonus from Symphony.
 From the Shadows,N/A,"Increases max stacks for Into the Light from 50 to 100, stack gain from 10 to 20 and stack consumption from 10 to 20."
 Heatstroke,N/A,+25% Amplified Weapon Damage to enemies set on fire by the Ortiz Incinerator Turret Prototype. +25% Ortiz Incinerator Turret Prototype Range.
 Hivemind,N/A,Decrease the Overcharge cooldown from 40s to 25s.
+Improved Dampeners,N/A,Decrease the Duration and Range reduction from 75% to 25%.
 Improved Materials,N/A,Decreases time taken for Makeshift Repairs from 10s to 5s.
 Inner Core,N/A,Increase the percentage of the bonuses you receive from the other Cores from 40% to 60%.
 Increased Interest,N/A,"For PvE: Increase the repairs received from Return to Sender from 10% to 25%, and from 20% to 35%. For PvP: Increase the repairs received from Return to Sender from 5% to 15%, and from 10% to 20%."
@@ -110,6 +113,7 @@ Max BPM,N/A,Max stack is now 100.
 Multithreaded Execution,N/A,Increases Hackstep Protocol bonus armor from 50% to 100%.
 No Limit,N/A,Increases Dead Man's Hand damage bonus from 30% to 50%.
 One for All,N/A,Increase the Weapon Damage bonus per stack from 3% to 5%.
+Overcharged Nanites,N/A,Increase the Healing Efficiency bonus from 100% to 150%.
 Outer Core,N/A,This Talent does not provide a direct change to the Core Exercise Talent.
 Over-engineered,N/A,"While at full Armor, repairs received from Return to Sender will provide Bonus Armor, up to 80% of your Total Armor. Does not apply to allies."
 Overcharging,N/A,Increases Charging max incoming damage protection to 70%.
@@ -168,6 +172,7 @@ Headache,N/A,"First Headshot with a Marksman Rifle will increase next headshot b
 Heartstopper,N/A,Headshots apply pulse for 5s. Weapon hits on pulsed enemies add and refresh a stack of +1% bonus armor and +1.1% amplified weapon damage to pulsed enemies for 5s. Max stack is 50. Two stacks are lost per second.
 Hoarder,N/A,"+3 Grenade Capacity. +50% Grenade Radius. +35% Grenade Damage. +25% Grenade Damage for each extra enemy caught in the blast. Automatically regenerate grenades every 30s, if you have less than 2 grenades in your inventory."
 Huddle,N/A,"Receive +1 Skill Tier for each ally Agent that is within the range of the hive or Smart Cover. While at Skill Tier 6, having at least one ally Agent in the range of your Hive or Smart Cover for 4s will grant Overcharge for 15s. Cooldown: 40s. Mortars and enemy Skills that enter the range of your Hive or Smart Cover will be destroyed. Cooldown: 10s. The cooldown is 20% faster for each ally agent within the range of your hive or smart cover."
+Impervious,N/A,Both you and Allies within 10m of you receive +40% Hazard Protection.
 Indirect Transmission,N/A,On kill: Spread status effects of that enemy to all enemies within 10m. Refresh 50% of status effect durations.
 Iron Grip,N/A,-50% Recoil Penalty when hip-firing. -50% Recoil Penalty when blind-firing from cover.
 Kill Confirmed,N/A,"Enemies you kill drop a trophy on death. Collecting trophies provides both a short and long term buff, the first of which scales with the number of core attributes equipped and lasts 10s. Red Core - 5% Weapon Damage. Blue Core - 10% Bonus Armor. Yellow Core - 5% Skill Efficiency. For every trophy collected gain an additional +1% weapon damage, +1% skill efficiency and +0.1% armor regeneration for 300s. Maximum 30 stacks."
@@ -175,6 +180,7 @@ Makeshift Repairs,N/A,"Whenever you or your shield take damage, 25% of that amou
 On Point,N/A,"Hitting a shot with a rifle or MMR grants 1 stack, max stack equal to magazine size. Reloading grants 2% handling and 4% WD per stack for 10s. No stacks gained while bonuses are active. Once timer runs out magazine is refilled. Reloading will stop effect. Reloading with stacks while inactive will remove all stacks and refill magazine."
 One in the Hand... / ...Two in the Bag,N/A,Throwing a grenade refunds it and grants +1 skill tier for 15s. Grants overcharge if already at skill tier 6. Cooldown: 60s. +1 Armor Kit Capacity. +3 Grenade Capacity. +25% Ammo Capacity. +10% Repair-Skills. +10% Status Effects.
 Ortiz Incinerator Turret Prototype,N/A,The Incinerator Turret spins 360 degrees. You are immune to your own Incinerator Turret's fire. The Incinerator Turret explodes when disabled.
+Ortiz Rapid Application Nanite Prototype,N/A,"Healing Skills' Duration and Range are decreased by 75%, but their Healing Efficiency is increased by 100%. Healing an Ally with a Skill will provide them 30% Hazard Protection for 10s. Cooldown per ally: 10s."
 Ostracize,N/A,"Shooting an enemy applies a mark. Only one mark can be active at a time. The mark disappears after 15s, or when the marked enemy dies. Receive 600% Amplified Damage from the marked enemy. Deal 20% Amplified Damage to unmarked enemies. If only one enemy remains in combat, the mark disappears and cannot be reapplied."
 Over the top,N/A,"Damaging an enemy with a grenade or striking an enemy with a melee attack, activates Seeing Red. Seeing Red grants +25% total weapon damage and +100% melee damage. Seeing Red lasts 20 seconds and starts a 60 second cooldown after completion. While in cooldown, damaging an enemy with a melee attack or hitting an enemy with the effect of a grenade will complete the cooldown instantly."
 Pack Instincts,N/A,You and all allies gain a bonus based on the distance of the last enemy you hit. 0-15m: +25% critical hit damage. 15-25m: +10% critical hit chance and +10% critical hit damage. 25m+: +25% critical hit chance.

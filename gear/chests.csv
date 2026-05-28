@@ -13,6 +13,7 @@ Uzina Getica,N/A,Uzina Getica Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear
 Yaahl Gear,N/A,Yaahl Gear Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Alps Summit Armaments,N/A,Alps Summit Armaments Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 China Light Industries,N/A,China Light Industries Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
+Edelweiss GPz,N/A,Edelweiss GPz Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Electrique,N/A,Electrique Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Empress International,N/A,Empress International Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Hana-U Corporation,N/A,Hana-U Corporation Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
@@ -53,6 +54,7 @@ N/A,Measured Assembly,Measured Assembly Chest,FALSE,FALSE,type:gear-core,N/A,N/A
 N/A,Negotiator's Dilemma,Negotiator's Dilemma Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Target Rich Environment,type:gear-mod,N/A,N/A
 N/A,Ongoing Directive,Ongoing Directive Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Parabellum Rounds,type:gear-mod,N/A,N/A
 N/A,Ortiz: Exuro,Ortiz: Exuro Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Chain Combustion,type:gear-mod,N/A,N/A
+N/A,Ortiz: Reficere,Ortiz: Reficere Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Overcharged Nanites,type:gear-mod,N/A,N/A
 N/A,Refactor,Refactor Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Increased Interest,type:gear-mod,N/A,N/A
 N/A,Rigger,Rigger Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Best Buds,type:gear-mod,N/A,N/A
 N/A,Striker's Battlegear,Striker's Battlegear Chest,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Press the Advantage,type:gear-mod,N/A,N/A
@@ -83,6 +85,7 @@ Urban Lookout,N/A,Sleight,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type
 Palisade Steelworks,N/A,Combustor,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Explosive Delivery,type:gear-mod,N/A,N/A
 Unit Alloys,N/A,Equalizer,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Obliterate,type:gear-mod,N/A,N/A
 Wyvern Wear,N/A,Impetus,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Kinetic Momentum,type:gear-mod,N/A,N/A
+Edelweiss GPz,N/A,Benefactor,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Empathic Resolve,type:gear-mod,N/A,N/A
 N/A,N/A,Collector,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
 N/A,N/A,Provocator,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:armor-regeneration-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
 N/A,N/A,Beacon,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Bond,type:gear-mod,N/A,N/A

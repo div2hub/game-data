@@ -13,6 +13,7 @@ Uzina Getica,armor,stat:total-armor:5%,stat:armor-on-kill:10%,stat:hazard-protec
 Yaahl Gear,armor,stat:hazard-protection:10%,stat:weapon-damage:10%,stat:pulse-resistance:40%
 Alps Summit Armaments,skill-tier,stat:repair-skills:18%,stat:skill-duration:30%,stat:skill-haste:30%
 China Light Industries,skill-tier,stat:explosive-damage:15%,stat:skill-haste:20%,stat:status-effects:25%
+Edelweiss GPz,skill-tier,stat:repair-skills:18%,stat:skill-haste:20%,stat:skill-efficiency:8%
 Electrique,skill-tier,stat:status-effects:10%,stat:shock-resistance:20%,stat:smg-damage:30%
 Empress International,skill-tier,stat:skill-health:10%,stat:skill-damage:10%,stat:skill-efficiency:8%
 Hana-U Corporation,skill-tier,stat:skill-haste:10%,stat:skill-damage:10%,stat:weapon-damage:15%
