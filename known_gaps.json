@@ -1,12 +1,5 @@
 [
   {
-    "reason": "Whiplash is Y8S1 end-of-season reward — available after week 9 climax mission",
-    "expires": "2026-06-01",
-    "gaps": [
-      { "file": "weapons/pistols.csv", "name": "Whiplash", "columns": ["base_damage", "base_rpm", "base_mag_size", "base_reload_time", "optimal_range", "hsd"] }
-    ]
-  },
-  {
     "reason": "Caduceus: Y8S2 Content",
     "expires": "2026-08-01",
     "gaps": [

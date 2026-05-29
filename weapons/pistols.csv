@@ -23,8 +23,8 @@ Px4 Storm Type F,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,N/A,type:mag-p
 Px4 Storm Type T,sidearm,Px4,FALSE,FALSE,91692,380,14,1.63,12,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Diceros,sidearm,Rhino,FALSE,FALSE,204803,180,6,2.00,18,100,N/A,type:mag-drum,N/A,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Snubnosed Diceros,sidearm,Rhino,FALSE,FALSE,211295,180,6,1.98,18,100,N/A,type:mag-drum,N/A,N/A,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
-Diceros Special,sidearm,Rhino,TRUE,FALSE,198309.7,180,6,1.93,18,100,type:optics-short,type:mag-drum,N/A,type:underbarrel-gadget,fixed:Perfect Optimist,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
-Whiplash,sidearm,Rhino,FALSE,TRUE,,,,,,100,fixed:Whiplash Optics,fixed:Whiplash Magazine,N/A,fixed:Whiplash Underbarrel,fixed:Faster Than Reloading,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
+Diceros Special,sidearm,Rhino,TRUE,FALSE,198305.8,180,6,1.93,18,100,type:optics-short,type:mag-drum,N/A,type:underbarrel-gadget,fixed:Perfect Optimist,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
+Whiplash,sidearm,Rhino,FALSE,TRUE,198305.8,180,6,1.93,18,100,fixed:Whiplash Optics,fixed:Whiplash Magazine,N/A,fixed:Whiplash Underbarrel,fixed:Faster Than Reloading,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 586 Magnum,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,type:optics-short,type:mag-drum,N/A,N/A,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Police 686 Magnum,sidearm,Magnum,FALSE,FALSE,233278,160,6,2.54,16,100,type:optics-short,type:mag-drum,N/A,N/A,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Orbit,sidearm,Magnum,TRUE,FALSE,233278,160,6,2.54,16,100,type:optics-short,type:mag-drum,N/A,N/A,fixed:Perfect Finisher,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
