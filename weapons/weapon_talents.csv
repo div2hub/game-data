@@ -116,7 +116,7 @@ Blossom Harvest,N/A,Amplifies Weapon Damage by 3.3% for each 10% combined Armor 
 Breathe Free,N/A,"When moving, gain 4 stacks per second, or 8 stacks if sprinting. Max stack is equal to the weapon's Magazine Size. Each round fired consumes a stack, amplifying damage by 75%. Kills grant +20% movement speed for 10s."
 Bullet Hell,N/A,"This weapon never needs to be reloaded. For every 100 bullets that hit an enemy, replenish some ammo to you and all your allies' reserves."
 Busy Little Bee,N/A,"Each shot to a different target will give 1 stack, up to 10, each stack will give 20% amplified weapon damage increase. Stacks will activate once the agent switches weapon and will last for 10 seconds."
-Caduceus,N/A,Critical hits repair you and your allies for 1.5% of the hit's dealt damage.
+Caduceus,N/A,Critical hits repair you and your allies for 2% of the hit's dealt damage.
 Capacitance,N/A,"Shooting enemies builds stacks to a cap of 40. Each stack grants 1.5% Skill Damage. After 5 seconds, stacks decay 1 per second. For each skill tier gain 7.5% Weapon Damage."
 Capitulate,N/A,Hitting an enemy applies -4% Movement Speed for each pellet hit for 5 seconds. Shooting the enemy again will reapply the stacks.
 Cover Shooter,N/A,"Every bullet fired while in cover increases weapon damage by 1% up to 100%. The bonus lasts for 15 seconds. Getting a kill with this weapon while in cover resets the duration. The bonus damage is canceled by reloading, swapping weapons, or exiting combat."

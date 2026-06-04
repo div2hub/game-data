@@ -103,7 +103,7 @@ Fortissimo,N/A,Double the weapon damage bonus from Symphony.
 From the Shadows,N/A,"Increases max stacks for Into the Light from 50 to 100, stack gain from 10 to 20 and stack consumption from 10 to 20."
 Heatstroke,N/A,+25% Amplified Weapon Damage to enemies set on fire by the Ortiz Incinerator Turret Prototype. +25% Ortiz Incinerator Turret Prototype Range.
 Hivemind,N/A,Decrease the Overcharge cooldown from 40s to 25s.
-Improved Dampeners,N/A,Decrease the Duration and Range reduction from 75% to 25%.
+Improved Dampeners,N/A,Decrease the Duration and Range reduction from 90% to 25%.
 Improved Materials,N/A,Decreases time taken for Makeshift Repairs from 10s to 5s.
 Inner Core,N/A,Increase the percentage of the bonuses you receive from the other Cores from 40% to 60%.
 Increased Interest,N/A,"For PvE: Increase the repairs received from Return to Sender from 10% to 25%, and from 20% to 35%. For PvP: Increase the repairs received from Return to Sender from 5% to 15%, and from 10% to 20%."
@@ -113,7 +113,7 @@ Max BPM,N/A,Max stack is now 100.
 Multithreaded Execution,N/A,Increases Hackstep Protocol bonus armor from 50% to 100%.
 No Limit,N/A,Increases Dead Man's Hand damage bonus from 30% to 50%.
 One for All,N/A,Increase the Weapon Damage bonus per stack from 3% to 5%.
-Overcharged Nanites,N/A,Increase the Healing Efficiency bonus from 100% to 150%.
+Overcharged Nanites,N/A,Increase the Healing Efficiency bonus from 150% to 225%.
 Outer Core,N/A,This Talent does not provide a direct change to the Core Exercise Talent.
 Over-engineered,N/A,"While at full Armor, repairs received from Return to Sender will provide Bonus Armor, up to 80% of your Total Armor. Does not apply to allies."
 Overcharging,N/A,Increases Charging max incoming damage protection to 70%.
@@ -180,7 +180,7 @@ Makeshift Repairs,N/A,"Whenever you or your shield take damage, 25% of that amou
 On Point,N/A,"Hitting a shot with a rifle or MMR grants 1 stack, max stack equal to magazine size. Reloading grants 2% handling and 4% WD per stack for 10s. No stacks gained while bonuses are active. Once timer runs out magazine is refilled. Reloading will stop effect. Reloading with stacks while inactive will remove all stacks and refill magazine."
 One in the Hand... / ...Two in the Bag,N/A,Throwing a grenade refunds it and grants +1 skill tier for 15s. Grants overcharge if already at skill tier 6. Cooldown: 60s. +1 Armor Kit Capacity. +3 Grenade Capacity. +25% Ammo Capacity. +10% Repair-Skills. +10% Status Effects.
 Ortiz Incinerator Turret Prototype,N/A,The Incinerator Turret spins 360 degrees. You are immune to your own Incinerator Turret's fire. The Incinerator Turret explodes when disabled.
-Ortiz Rapid Application Nanite Prototype,N/A,"Healing Skills' Duration and Range are decreased by 75%, but their Healing Efficiency is increased by 100%. Healing an Ally with a Skill will provide them 30% Hazard Protection for 10s. Cooldown per ally: 10s."
+Ortiz Rapid Application Nanite Prototype,N/A,"Healing Skills' Duration and Range are decreased by 90%, but their Healing Efficiency is increased by 150%. Healing an Ally with a Skill will provide them 30% Hazard Protection for 10s. Cooldown per ally: 10s."
 Ostracize,N/A,"Shooting an enemy applies a mark. Only one mark can be active at a time. The mark disappears after 15s, or when the marked enemy dies. Receive 600% Amplified Damage from the marked enemy. Deal 20% Amplified Damage to unmarked enemies. If only one enemy remains in combat, the mark disappears and cannot be reapplied."
 Over the top,N/A,"Damaging an enemy with a grenade or striking an enemy with a melee attack, activates Seeing Red. Seeing Red grants +25% total weapon damage and +100% melee damage. Seeing Red lasts 20 seconds and starts a 60 second cooldown after completion. While in cooldown, damaging an enemy with a melee attack or hitting an enemy with the effect of a grenade will complete the cooldown instantly."
 Pack Instincts,N/A,You and all allies gain a bonus based on the distance of the last enemy you hit. 0-15m: +25% critical hit damage. 15-25m: +10% critical hit chance and +10% critical hit damage. 25m+: +25% critical hit chance.
