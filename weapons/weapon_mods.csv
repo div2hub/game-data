@@ -233,6 +233,6 @@ Whiplash Magazine,magazine,N/A,critical-hit-chance:10%
 Whiplash Underbarrel,underbarrel,N/A,swap-speed:50%
 Caduceus Optics,optics,N/A,critical-hit-chance:10%
 Caduceus Magazine,magazine,N/A,magazine-size:40
-Caduceus Muzzle,muzzle,N/A,critical-hit-chance:5%
-Caduceus Underbarrel,underbarrel,N/A,critical-hit-damage:5%
+Caduceus Muzzle,muzzle,N/A,critical-hit-damage:5%
+Caduceus Underbarrel,underbarrel,N/A,critical-hit-chance:5%
 Underboss Optics,optics,N/A,critical-hit-chance:15%
