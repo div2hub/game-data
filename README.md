@@ -113,6 +113,12 @@ The `name` field matches the row's `name` (or `stat_name`) column. Use `@all` to
 
 When data becomes available, fill the CSV cells and remove the corresponding entry from `known_gaps.json`.
 
+## Descriptions Record Measured Behaviour
+
+Where an in-game description states a value that testing shows to be wrong, the cell here carries
+the measured value instead of the game's wording. Every such correction is listed in
+[game-text-errors.md](game-text-errors.md).
+
 ## No Comments in CSVs
 
 CSVs must not contain comment lines (e.g., `# NOTE:`). All documentation belongs in this README.
