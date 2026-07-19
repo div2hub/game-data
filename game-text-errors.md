@@ -20,7 +20,17 @@ has actually been measured — a description that merely looks wrong is not an e
 |---|---|---|---|---|---|
 | `gear/gear_talents.csv` | Perfect Empathic Resolve | `description` | `1-15% if self` | `2.3-16.3% if self` | isac-build-engine `docs/research/talents/empathic-resolve.md` |
 
-## Backfill
+## This list is never complete
 
-Corrections made before this file existed are not listed yet. Add them as they are come across,
-following the same rule: a row needs a recorded measurement behind it.
+Treat it as a living record, never as the full set of wrong descriptions. Two reasons it cannot be
+complete:
+
+- Corrections made before this file existed leave no trace that can be recovered. The file history
+  shows only what a cell said here, never what the game said, so an old edit could equally be a
+  correction, a transcription fix, or a change the game itself made in a patch. A cell that was
+  authored correct from the start leaves no trace at all.
+- Nobody has checked every description against measured behaviour, and no source that lists these
+  errors is complete either.
+
+So entries arrive one at a time, as testing turns one up or as somebody recalls one. A row still
+needs a recorded measurement behind it — a description that merely looks wrong is not an entry.
