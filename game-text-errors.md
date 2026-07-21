@@ -20,6 +20,15 @@ has actually been measured — a description that merely looks wrong is not an e
 |---|---|---|---|---|---|
 | `gear/gear_talents.csv` | Perfect Empathic Resolve | `description` | `1-15% if self` | `2.3-16.3% if self` | isac-build-engine `docs/research/talents/empathic-resolve.md` |
 
+## Where leads come from
+
+A community-maintained guide collects wrong in-game texts and is a useful place to look for
+candidates:
+<https://docs.google.com/document/d/1zmMtU8JWUXNIObhxst__CYguFgfZ1288mPodyqs2LTE/edit>
+
+It is a lead source, not a source of truth. Nothing from it becomes a row above until we have
+measured the behaviour ourselves.
+
 ## This list is never complete
 
 Treat it as a living record, never as the full set of wrong descriptions. Two reasons it cannot be
