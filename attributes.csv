@@ -14,7 +14,7 @@ critical-hit-damage-weapon-core,critical-hit-damage,0.5%,17%,26%,N/A,offensive,0
 headshot-damage-weapon-core,headshot-damage,0.5%,111%,166.5%,N/A,offensive,0.1%
 damage-to-armor-weapon-minor,damage-to-armor,0.5%,6%,9%,weapon-minor|weapon-offensive-minor,offensive,0.1%
 critical-hit-chance-weapon-minor,critical-hit-chance,0.5%,9.5%,14.5%,weapon-minor|weapon-offensive-minor,offensive,0.1%
-health-damage-weapon-minor,health-damage,0.5%,9.5%,14.5%,weapon-minor|weapon-offensive-minor,offensive,0.1%
+health-damage-weapon-minor,health-damage,0.5%,10%,14.5%,weapon-minor|weapon-offensive-minor,offensive,0.1%
 dtoc-weapon-minor,dtoc,0.5%,10%,15%,weapon-minor|weapon-offensive-minor,offensive,0.1%
 headshot-damage-weapon-minor,headshot-damage,0.5%,10%,15%,weapon-minor|weapon-offensive-minor,offensive,0.1%
 critical-hit-damage-weapon-minor,critical-hit-damage,0.5%,10%,15%,weapon-minor|weapon-offensive-minor,offensive,0.1%
