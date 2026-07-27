@@ -123,6 +123,17 @@ the measured value instead of the game's wording. Every such correction is liste
 
 CSVs must not contain comment lines (e.g., `# NOTE:`). All documentation belongs in this README.
 
+## Skills (`skills/skills.csv`)
+
+One row per skill variant.
+
+| Column | Meaning |
+|---|---|
+| `name` | variant's in-game name |
+| `skill` | in-game name of the parent skill the variant belongs to |
+
+The variant prefix is `name` with the trailing `skill` part removed. `Decoy` is its own parent and has no variant prefix.
+
 ## Per-Slot Gear CSVs
 
 Files: `gear/masks.csv`, `gear/backpacks.csv`, `gear/chests.csv`, `gear/gloves.csv`, `gear/holsters.csv`, `gear/knees.csv`
