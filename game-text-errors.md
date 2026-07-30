@@ -20,6 +20,12 @@ has actually been measured — a description that merely looks wrong is not an e
 |---|---|---|---|---|---|
 | `gear/gear_talents.csv` | Perfect Empathic Resolve | `description` | `1-15% if self` | `2.3-16.3% if self` | isac-build-engine `docs/research/talents/empathic-resolve.md` |
 | `gear/gear_talents.csv` | Alternating Current | `description` | `stack of 3% skill damage` | `stack of 2.5% skill damage` | isac-build-engine `docs/research/talents/alternating-current.md` |
+| `gear/gear_talents.csv` | Intimidate | `description` | `increases weapon damage` | `amplifies weapon damage` | isac-build-engine `docs/research/talents/intimidate.md` |
+| `gear/gear_talents.csv` | Perfect Intimidate | `description` | `increases weapon damage` | `amplifies weapon damage` | isac-build-engine `docs/research/talents/intimidate.md` |
+| `gear/gear_talents.csv` | Heartstopper | `description` | `+1.1% weapon damage` | `+1.1% amplified weapon damage` | isac-build-engine `docs/research/talents/heartstopper.md` |
+| `gear/gear_talents.csv` | Symphony | `description` | `all bonuses are multiplied by 2` | `all bonuses are multiplied by 1.5` | isac-build-engine `docs/research/talents/symphony.md` |
+| `gear/gear_talents.csv` | Signature Moves | `description` | `+50% Weapon Damage` | `+50% Amplified Weapon Damage` | isac-build-engine `docs/research/talents/signature-moves.md` |
+| `gear/gear_talents.csv` | Point of Honor | `description` | `from 4% to 7%` | `from 4% to 7.2%` | community testing; no recorded measurement |
 
 ## Where leads come from
 
