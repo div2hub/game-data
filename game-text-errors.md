@@ -19,6 +19,7 @@ has actually been measured — a description that merely looks wrong is not an e
 | File | Row | Column | Game text says | Cell says | Measured in |
 |---|---|---|---|---|---|
 | `gear/gear_talents.csv` | Perfect Empathic Resolve | `description` | `1-15% if self` | `2.3-16.3% if self` | isac-build-engine `docs/research/talents/empathic-resolve.md` |
+| `gear/gear_talents.csv` | Alternating Current | `description` | `stack of 3% skill damage` | `stack of 2.5% skill damage` | isac-build-engine `docs/research/talents/alternating-current.md` |
 
 ## Where leads come from
 
