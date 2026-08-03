@@ -27,15 +27,6 @@ has actually been measured — a description that merely looks wrong is not an e
 | `gear/gear_talents.csv` | Signature Moves | `description` | `+50% Weapon Damage` | `+50% Amplified Weapon Damage` | isac-build-engine `docs/research/talents/signature-moves.md` |
 | `gear/gear_talents.csv` | Point of Honor | `description` | `from 4% to 7%` | `from 4% to 7.2%` | community testing; no recorded measurement |
 
-## Where leads come from
-
-A community-maintained guide collects wrong in-game texts and is a useful place to look for
-candidates:
-<https://docs.google.com/document/d/1zmMtU8JWUXNIObhxst__CYguFgfZ1288mPodyqs2LTE/edit>
-
-It is a lead source, not a source of truth. Nothing from it becomes a row above until we have
-measured the behaviour ourselves.
-
 ## This list is never complete
 
 Treat it as a living record, never as the full set of wrong descriptions. Two reasons it cannot be
