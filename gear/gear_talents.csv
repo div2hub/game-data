@@ -40,11 +40,13 @@ Perfect Braced,N/A,While in cover weapon handling is increased by 50%.
 Skilled,chest,Skill kills have a 25% chance to reset skill cooldowns.
 Perfect Skilled,N/A,Skill kills have a 30% chance to reset skill cooldowns.
 Tag Team,chest,The last enemy you have damaged with a skill is marked. Dealing weapon damage to that enemy consumes the mark to reduce active cooldowns by 6s.  Cooldown: 4s
+Perfect Tag Team,N/A,The last enemy you have damaged with a skill is marked. Dealing weapon damage to that enemy consumes the mark to reduce active cooldowns by 12s.  Cooldown: 4s
 Trauma,chest,Applies blind to an enemy hit in the head. Cooldown: 30 seconds. Applies bleed to an enemy hit in the chest. Cooldown: 30 seconds.
 Perfect Trauma,N/A,Applies blind to an enemy hit in the head. Cooldown: 20 seconds. Applies bleed to an enemy hit in the chest. Cooldown: 20 seconds.
 Tamper Proof,chest,"Enemies that walk within 3 meters of your hive, turret, remote pulse, or decoy are shocked. Arm time: 2 seconds. Cooldown per skill: 10 seconds.(8s)"
 Perfect Tamper Proof,N/A,"Enemies that walk within 3 meters of your hive, turret, remote pulse, or decoy are shocked. Arm time: 2 seconds. Cooldown per skill: 10 seconds.(8s)"
 Reassigned,chest,Killing an enemy adds 1 round of a random special ammo into your sidearm. Cooldown: 15 seconds.
+Perfect Reassigned,N/A,Killing an enemy adds 1 round of a random special ammo into your sidearm. Cooldown 8s
 Combined Arms,backpack,Shooting an enemy increases total skill damage by 25% for 3s.
 Perfect Combined Arms,N/A,Shooting an enemy increases total skill damage by 30% for 3s.
 Tech Support,backpack,Skill kills increase total skill damage by 25% for 25s.
@@ -75,6 +77,7 @@ Perfect Bloodsucker,N/A,Killing an enemy adds and refreshes a stack of +12% bonu
 Leadership,backpack,Performing a cover to cover grants 15% of your armor as bonus armor to you and all allies for 10s. This is doubled if you end within 10m of an enemy.  Cooldown: 10s.
 Perfect Leadership,N/A,Performing a cover to cover grants 20% of your armor as bonus armor to you and all allies for 10s. This is tripled if you end within 10m of an enemy.  Cooldown: 10s.
 Protector,backpack,"When your shield is damaged, you gain +5% and all other allies gain +15% of your armor as bonus armor for 3s.  Cooldown: 3s."
+Perfect Protector,N/A,"When your shield is damaged, you gain +25% bonus armor and all other allies gain +35% of your armor as bonus armor for 3s.  Cooldown: 3s."
 Adrenaline Rush,backpack,"When you are within 10m of an enemy, gain 20% bonus armor for 5s. Stacks up to 3 times. Cooldown: 5s"
 Perfect Adrenaline Rush,N/A,"When you are within 10m of an enemy, gain 23% bonus armor for 5s. Stacks up to 3 times. Cooldown: 5s"
 Galvanize,backpack,"Applying a Blind, Ensnare, Confuse, or Shock to an enemy grants 40% of your armor as bonus armor to you and all allies within 20m of that enemy for 10s"
@@ -203,6 +206,6 @@ Toxic Delivery,N/A,Status effects also apply a damage over time debuff for 10s. 
 Transference Overclock,N/A,"Grants 15% Hive skill haste per skill tier. Detonating a hive refreshes your skill cooldowns and grants overcharge for 15s. If at Skill Tier 6, this effect also applies to all allies. Allies receiving this effect are unable to benefit from it again for 120s."
 Vicious Cycle,N/A,"Taking damage builds stacks to a cap of 30. Each stack grants 1.5% Weapon Damage. Taking damage at max stacks triggers a purge, removing all stacks and Status Effects and then dropping a healing cloud which restores 5% of Max Armor for 10s to all allies in the cloud."
 Weakest Link,N/A,"Amplifies Weapon Damage by 30% to the lowest ranking enemies currently in combat, as per the Tier hierarchy. Tier 1: Hunter, Rogue, Leader, Tank, Shield, Heavy Weapons, RPG, Medic, Controller, Warhound, Marauder. Tier 2: Support, Engineer, Bodyguard, Immobilizer, Bomber, Mini Tank, Drone Operator. Tier 3: Any other enemy or skill proxy."
-Spontaneous Combustion,N/A,"Every Status Effect you apply has a 20% chance of also applying Burn to the enemy. If the Status Effect initially applied was Burn, the enemy will receive +25% Burn Damage for the duration of the Burn."
-Flashpoint,N/A,Increase the chance of applying Burn of Spontaneous Combustion to 40%.
-White Hot,N/A,Increase the Duration of the Burn Damage debuff of Spontaneous Combustion by 50%.
+Spontaneous Combustion,N/A,"Every Status Effect you apply has a 20% chance of also applying Burn to the enemy. If the Status Effect initially applied was Burn, the enemy will receive +25% Burn Damage for the duration of the Burn"
+Flashpoint,N/A,Increase the chance of applying Burn of Spontaneous Combustion to 40%
+White Hot,N/A,Increase the Duration of the Burn Damage debuff of Spontaneous Combustion by +50%

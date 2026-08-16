@@ -87,6 +87,8 @@ Palisade Steelworks,N/A,Combustor,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-mi
 Unit Alloys,N/A,Equalizer,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Obliterate,type:gear-mod,N/A,N/A
 Wyvern Wear,N/A,Impetus,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Kinetic Momentum,type:gear-mod,N/A,N/A
 Edelweiss GPz,N/A,Benefactor,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Empathic Resolve,type:gear-mod,N/A,N/A
+Imminence Armaments,N/A,Trick Shot,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Reassigned,type:gear-mod,N/A,N/A
+Richter & Kaiser GmbH,N/A,Rushdown,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Tag Team,type:gear-mod,N/A,N/A
 N/A,N/A,Collector,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
 N/A,N/A,Provocator,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:armor-regeneration-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
 N/A,N/A,Beacon,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Bond,type:gear-mod,N/A,N/A
