@@ -64,6 +64,7 @@ N/A,True Patriot,True Patriot Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:ge
 N/A,Umbra Initiative,Umbra Initiative Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,Virtuoso,Virtuoso Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 N/A,Core Strength,Core Strength Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+N/A,Ember Engine,Ember Engine Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Richter & Kaiser GmbH,N/A,Forge,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:shield-health-forge,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Badger Tuff,N/A,Ammo Dump,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:ammo-capacity-ammo-dump,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A
 Brazos de Arcabuz,N/A,Picaros Holster,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-damage-picaros-holster,type:gear-minor,N/A,N/A,N/A,N/A,N/A

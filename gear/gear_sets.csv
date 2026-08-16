@@ -26,3 +26,4 @@ Tipping Scales,weapon-damage,N/A,stat:magazine-size:30%,stat:lmg-damage:30%,tale
 True Patriot,armor,N/A,stat:ammo-capacity:30%,stat:magazine-size:30%,"talent:Red, White and Blue"
 Umbra Initiative,weapon-damage,N/A,stat:critical-hit-chance:15%,stat:reload-speed:30%,talent:From the Shadows Into the Light
 Virtuoso,weapon-damage,N/A,stat:weapon-handling:15%|stat:magazine-size:15%,stat:weapon-damage:15%,talent:Symphony
+Ember Engine,skill-tier,N/A,stat:skill-efficiency:8%,stat:status-effects:30%,talent:Spontaneous Combustion
