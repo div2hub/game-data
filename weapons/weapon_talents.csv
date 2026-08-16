@@ -155,3 +155,4 @@ Unnerve,N/A,Killing an enemy will apply a mark on every enemy within 20m of it. 
 You can look...but you can't touch,N/A,"When out of combat, receive 10 stacks. This weapon deals +12.5% Amplified Damage per stack. 1 stack is automatically consumed to fully repair one instance of damage you receive. 1 stack replenishes every 3s."
 Boiling Point,assault-rifle|smg|lmg,The first 80% of your magazine will have -100% Critical Hit Chance. The rest will have 100%.
 Perfect Boiling Point,N/A,The first 75% of your magazine will have -100% Critical Hit Chance. The rest will have 100%.
+Dragon's Breath,N/A,This weapon fires Dragon's Breath shells. Each shot has a 10% chance of applying Burn to the enemy. An enemy cannot be applied Burn if they are burning already. Weapon Damage is Amplified by 30% of your Status Effects bonus.

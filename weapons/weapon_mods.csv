@@ -240,3 +240,6 @@ Prima Donna Scope,optics,N/A,headshot-damage:25%
 Prima Donna Magazine,magazine,N/A,weapon-handling:7.5%
 Prima Donna Muzzle,muzzle,N/A,headshot-damage:20%
 Prima Donna Underbarrel,underbarrel,N/A,weapon-handling:7.5%
+Fafnir Optics,optics,N/A,critical-hit-chance:15%
+Fafnir Magazine,magazine,N/A,magazine-size:5
+Fafnir Underbarrel,underbarrel,N/A,weapon-handling:10%
