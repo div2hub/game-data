@@ -119,6 +119,15 @@ Where an in-game description states a value that testing shows to be wrong, the 
 the measured value instead of the game's wording. Every such correction is listed in
 [game-text-errors.md](game-text-errors.md).
 
+## Description Formatting
+
+Whitespace and a trailing period carry no information: the game breaks lines where a cell
+holds a space, and periods come and go. Clone the base row's and move on.
+
+Everything else in the cell is data, **signs included** — `+50%` and `50%` can mean
+different things. Carry it as the game writes it, and where a variant differs from its
+base, ask rather than deciding while authoring.
+
 ## No Comments in CSVs
 
 CSVs must not contain comment lines (e.g., `# NOTE:`). All documentation belongs in this README.
