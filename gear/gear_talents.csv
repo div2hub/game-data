@@ -209,3 +209,4 @@ Weakest Link,N/A,"Amplifies Weapon Damage by 30% to the lowest ranking enemies c
 Spontaneous Combustion,N/A,"Every Status Effect you apply has a 20% chance of also applying Burn to the enemy. If the Status Effect initially applied was Burn, the enemy will receive +25% Burn Damage for the duration of the Burn"
 Flashpoint,N/A,Increase the chance of applying Burn of Spontaneous Combustion to 40%
 White Hot,N/A,Increase the Duration of the Burn Damage debuff of Spontaneous Combustion by +50%
+Resolved,N/A,Your next body shot will be considered a headshot. Cooldown: 1s
