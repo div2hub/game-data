@@ -1,0 +1,4 @@
+# Line endings are normalised to LF in the repository, so a file round-tripped
+# through an editor or spreadsheet tool that writes CRLF is stored as LF anyway.
+# This travels with the repo — no per-developer git config is involved.
+* text=auto eol=lf
