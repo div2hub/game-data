@@ -1,7 +1,7 @@
 name,default_core_stat_id,1pc_bonus,2pc_bonus,3pc_bonus,4pc_bonus
-Aces & Eights,weapon-damage,N/A,stat:marksman-rifle-damage:15%|stat:rifle-damage:15%,stat:headshot-damage:30%,talent:Dead Man's Hand
+Aces & Eights,weapon-damage,N/A,stat:marksman-rifle-damage:30%|stat:rifle-damage:30%,stat:headshot-damage:30%|stat:weapon-handling:30%,talent:Dead Man's Hand
 Aegis,armor,N/A,stat:health:70%,stat:total-armor:15%,talent:Stoic
-Breaking Point,weapon-damage,N/A,stat:rifle-damage:25%|stat:marksman-rifle-damage:25%,stat:headshot-damage:30%|stat:weapon-handling:15%,talent:On Point
+Breaking Point,weapon-damage,N/A,stat:rifle-damage:30%|stat:marksman-rifle-damage:30%,stat:headshot-damage:30%|stat:weapon-handling:30%,talent:On Point
 Cavalier,armor,N/A,stat:hazard-protection:30%,stat:repair-skills:40%,talent:Charging
 Concentrated Company,weapon-damage,N/A,stat:weapon-damage:10%,stat:weapon-handling:30%,talent:Camaraderie
 Core Strength,armor,N/A,stat:weapon-handling:10%,stat:weapon-damage:5%|stat:total-armor:5%|stat:skill-efficiency:5%,talent:Core Exercise
@@ -10,7 +10,7 @@ Foundry Bulwark,armor,N/A,stat:total-armor:10%,stat:armor-regeneration:1%|stat:s
 Future Initiative,skill-tier,N/A,stat:repair-skills:30%,stat:skill-duration:30%|stat:skill-haste:15%,talent:Ground Control
 Hard Wired,skill-tier,N/A,stat:skill-haste:15%,stat:skill-damage:15%|stat:repair-skills:30%,talent:Feedback Loop
 Heartbreaker,armor,N/A,stat:assault-rifle-damage:15%|stat:lmg-damage:15%,stat:weapon-handling:15%,talent:Heartstopper
-Hotshot,weapon-damage,N/A,stat:marksman-rifle-damage:30%|stat:weapon-handling:30%,stat:headshot-damage:30%,talent:Headache
+Hotshot,weapon-damage,N/A,stat:marksman-rifle-damage:30%,stat:headshot-damage:30%|stat:weapon-handling:30%,talent:Headache
 Hunter's Fury,weapon-damage,N/A,stat:shotgun-damage:15%|stat:smg-damage:15%,stat:armor-on-kill:20%|stat:health-on-kill:50%,talent:Apex Predator
 Measured Assembly,skill-tier,N/A,stat:skill-haste:15%,stat:repair-skills:60%|stat:explosive-resistance:40%,talent:Huddle
 Negotiator's Dilemma,weapon-damage,N/A,stat:critical-hit-chance:15%,stat:critical-hit-damage:20%,talent:Crowd Control
@@ -23,7 +23,7 @@ Striker's Battlegear,weapon-damage,N/A,stat:weapon-handling:15%,stat:rate-of-fir
 System Corruption,armor,N/A,stat:armor-on-kill:15%,stat:disrupt-resistance:40%|stat:pulse-resistance:40%,talent:Hackstep Protocol
 Tip of the Spear,weapon-damage,N/A,stat:signature-weapon-damage:20%,stat:weapon-damage:10%,talent:Aggressive Recon
 Tipping Scales,weapon-damage,N/A,stat:magazine-size:30%,stat:lmg-damage:30%,talent:Throttle Control
-True Patriot,armor,N/A,stat:ammo-capacity:30%,stat:magazine-size:30%,"talent:Red, White and Blue"
+True Patriot,armor,N/A,stat:weapon-handling:15%,stat:magazine-size:30%,"talent:Red, White and Blue"
 Umbra Initiative,weapon-damage,N/A,stat:critical-hit-chance:15%,stat:reload-speed:30%,talent:From the Shadows Into the Light
 Virtuoso,weapon-damage,N/A,stat:weapon-handling:15%|stat:magazine-size:15%,stat:weapon-damage:15%,talent:Symphony
 Ember Engine,skill-tier,N/A,stat:skill-efficiency:8%,stat:status-effects:30%,talent:Spontaneous Combustion
