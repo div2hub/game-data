@@ -34,6 +34,6 @@ Petrov Defense Group,weapon-damage,stat:lmg-damage:10%,stat:weapon-handling:15%,
 Providence Defense,weapon-damage,stat:headshot-damage:13%,stat:critical-hit-chance:8%,stat:critical-hit-damage:13%
 Sokolov Concern,weapon-damage,stat:smg-damage:10%,stat:critical-hit-damage:13%,stat:critical-hit-chance:8%
 Urban Lookout,weapon-damage,stat:accuracy:10%,stat:skill-duration:30%,stat:marksman-rifle-damage:30%
-Royal Works,weapon-damage,stat:weapon-handling:5%,stat:magazine-size:32.5%,stat:critical-hit-damage:15%
+Royal Works,weapon-damage,stat:weapon-handling:5%,stat:magazine-size:32%,stat:critical-hit-damage:13%
 "Walker, Harris & Co.",weapon-damage,stat:weapon-damage:5%,stat:damage-to-armor:5%,stat:health-damage:10%
 Zwiadowka Sp. z o.o.,weapon-damage,stat:magazine-size:15%,stat:rifle-damage:20%,stat:weapon-handling:30%
