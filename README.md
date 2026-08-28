@@ -2,6 +2,10 @@
 
 These CSVs are the **source of truth** for all Division 2 game data used by tools in this org.
 
+## License
+
+The compilation and arrangement of the data in this repository is licensed under [Creative Commons Attribution 4.0 International](LICENSE). The underlying game content belongs to Ubisoft and is used under their fan content policy. This license covers the compilation only, not the game itself.
+
 ## Attribute Column Value Syntax
 
 Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns across all gear and weapon CSVs. **Every reference in these columns is an attribute id from `attributes.csv` — never a stat id.**
