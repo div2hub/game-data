@@ -1,7 +1,7 @@
 [
   {
     "reason": "Steel & Sons ACR is a Y8S2.3 incursion reward; base stats and mod slots cannot be observed until the incursion is cleared in-game.",
-    "expires": "2026-08-25",
+    "expires": "2026-09-25",
     "gaps": [
       {
         "file": "weapons/assault_rifles.csv",

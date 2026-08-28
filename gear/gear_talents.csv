@@ -64,6 +64,7 @@ Perfect Companion,N/A,"While you are within 10 m of an ally or skill, total weap
 Composure,backpack,"While in cover, increases total weapon damage by 15%."
 Perfect Composure,N/A,"While in cover, increases total weapon damage by 20%."
 Concussion,backpack,Headshots increase total weapon damage by 10% for 1.5s. 5s with marksman rifles. Headshot kills increase total weapon damage by 15% for 10s. Both buffs can be active for an increase of 25% total weapon damage
+Perfect Concussion,N/A,Headshots increase total weapon damage by 20% for 1.5s. 5s with marksman rifles. Headshot kills increase total weapon damage by 15% for 10s. Both buffs can be active for an increase of 35% total weapon damage
 Wicked,backpack,Applying a status effect increases total weapon damage by 18% for 20s.
 Perfect Wicked,N/A,Applying a status effect increases total weapon damage by 18% for 27s.
 Opportunistic,backpack,Enemies you hit with shotguns and marksman rifles amplifies the damage they take by 10% from all sources for 5s.
@@ -180,7 +181,7 @@ Indirect Transmission,N/A,On kill: Spread status effects of that enemy to all en
 Iron Grip,N/A,-50% Recoil Penalty when hip-firing. -50% Recoil Penalty when blind-firing from cover.
 Kill Confirmed,N/A,"Enemies you kill drop a trophy on death. Collecting trophies provides both a short and long term buff, the first of which scales with the number of core attributes equipped and lasts 10s. Red Core - 5% Weapon Damage. Blue Core - 10% Bonus Armor. Yellow Core - 5% Skill Efficiency. For every trophy collected gain an additional +1% weapon damage, +1% skill efficiency and +0.1% armor regeneration for 300s. Maximum 30 stacks."
 Makeshift Repairs,N/A,"Whenever you or your shield take damage, 25% of that amount is repaired to both over 10s."
-On Point,N/A,"Hitting a shot with a rifle or MMR grants 1 stack, max stack equal to magazine size. Reloading grants 2% handling and 4% WD per stack for 20s. No stacks gained while bonuses are active. Once timer runs out magazine is refilled. Reloading will stop effect. Reloading with stacks while inactive will remove all stacks and refill magazine."
+On Point,N/A,"Hitting a shot with a Rifle or MMR grants a stack. Max stack is equal to the weapon's Magazine Size. Reloading will grant +2% Weapon Handling and +4% Weapon Damage per stack, for 20s.  No stacks are acquired while the bonuses are active. The timer running out will refill your magazine.  Switching weapons while the bonuses are active will stop the effect and refill your magazine. Switching weapons while the bonuses are not active will remove all stacks and refill your magazine."
 One in the Hand... / ...Two in the Bag,N/A,Throwing a grenade refunds it and grants +1 skill tier for 15s. Grants overcharge if already at skill tier 6. Cooldown: 60s. +1 Armor Kit Capacity. +3 Grenade Capacity. +25% Ammo Capacity. +10% Repair-Skills. +10% Status Effects.
 Ortiz Incinerator Turret Prototype,N/A,The Incinerator Turret spins 360 degrees. You are immune to your own Incinerator Turret's fire. The Incinerator Turret explodes when disabled.
 Ortiz Rapid Application Nanite Prototype,N/A,"Healing Skills' Duration and Range are decreased by 90%, but their Healing Efficiency is increased by 150%. Healing an Ally with a Skill will provide them 30% Hazard Protection for 10s. Cooldown per ally: 10s."
@@ -206,7 +207,7 @@ Toxic Delivery,N/A,Status effects also apply a damage over time debuff for 10s. 
 Transference Overclock,N/A,"Grants 15% Hive skill haste per skill tier. Detonating a hive refreshes your skill cooldowns and grants overcharge for 15s. If at Skill Tier 6, this effect also applies to all allies. Allies receiving this effect are unable to benefit from it again for 120s."
 Vicious Cycle,N/A,"Taking damage builds stacks to a cap of 30. Each stack grants 1.5% Weapon Damage. Taking damage at max stacks triggers a purge, removing all stacks and Status Effects and then dropping a healing cloud which restores 5% of Max Armor for 10s to all allies in the cloud."
 Weakest Link,N/A,"Amplifies Weapon Damage by 30% to the lowest ranking enemies currently in combat, as per the Tier hierarchy. Tier 1: Hunter, Rogue, Leader, Tank, Shield, Heavy Weapons, RPG, Medic, Controller, Warhound, Marauder. Tier 2: Support, Engineer, Bodyguard, Immobilizer, Bomber, Mini Tank, Drone Operator. Tier 3: Any other enemy or skill proxy."
-Spontaneous Combustion,N/A,"Every Status Effect you apply has a 20% chance of also applying Burn to the enemy. If the Status Effect initially applied was Burn, the enemy will receive +25% Burn Damage for the duration of the Burn"
-Flashpoint,N/A,Increase the chance of applying Burn of Spontaneous Combustion to 40%
+Spontaneous Combustion,N/A,"Every Status Effect you apply has a 40% chance of also applying Burn to the enemy. If the Status Effect initially applied was Burn, the enemy will receive +25% Burn Damage for the duration of the Burn"
+Flashpoint,N/A,Increase the chance of applying Burn of Spontaneous Combustion to 60%
 White Hot,N/A,Increase the Duration of the Burn Damage debuff of Spontaneous Combustion by +50%
-Resolved,N/A,Your next body shot will be considered a headshot. Cooldown: 1s
+Resolved,N/A,"Your next body shot will be considered a headshot. Cooldown: 2s Requires Equipped: Marksman Rifle, Rifle or Pistol"

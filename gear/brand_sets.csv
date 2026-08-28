@@ -1,14 +1,14 @@
 name,default_core_stat_id,1pc_bonus,2pc_bonus,3pc_bonus
-5.11 Tactical,armor,stat:protection-from-elites:10%,stat:increased-threat:100%,stat:hazard-protection:30%
+5.11 Tactical,armor,stat:protection-from-elites:12%,stat:increased-threat:100%,stat:hazard-protection:30%
 Badger Tuff,armor,stat:shotgun-damage:12%,stat:armor-on-kill:10%,stat:total-armor:15%
-Belstone Armory,armor,stat:armor-regeneration:1%,stat:increased-threat:100%,stat:protection-from-elites:30%
+Belstone Armory,armor,stat:armor-regeneration:1%,stat:increased-threat:100%,stat:protection-from-elites:36%
 Brazos de Arcabuz,armor,stat:skill-haste:10%,stat:skill-tier:1,stat:magazine-size:50%
 Gila Guard,armor,stat:total-armor:5%,stat:hazard-protection:20%,stat:armor-regeneration:2%
 Improvised,armor,N/A,N/A,N/A
 Golan Gear Ltd,armor,stat:explosive-resistance:20%,stat:armor-regeneration:1.5%,stat:increased-threat:150%
 Habsburg Guard,armor,stat:headshot-damage:13%,stat:marksman-rifle-damage:24%,stat:status-effects:25%
 Lengmo,armor,stat:reload-speed:15%,stat:lmg-damage:24%,stat:weapon-handling:30%
-Palisade Steelworks,armor,stat:armor-on-kill:10%,stat:protection-from-elites:20%,stat:skill-tier:1
+Palisade Steelworks,armor,stat:armor-on-kill:10%,stat:protection-from-elites:24%,stat:skill-tier:1
 Uzina Getica,armor,stat:total-armor:5%,stat:armor-on-kill:10%,stat:hazard-protection:30%
 Yaahl Gear,armor,stat:hazard-protection:10%,stat:weapon-damage:12%,stat:pulse-resistance:40%
 Alps Summit Armaments,skill-tier,stat:repair-skills:18%,stat:skill-duration:30%,stat:skill-haste:30%
@@ -17,16 +17,16 @@ Edelweiss GPz,skill-tier,stat:repair-skills:18%,stat:skill-haste:20%,stat:skill-
 Electrique,skill-tier,stat:status-effects:10%,stat:hazard-protection:20%,stat:skill-efficiency:8%
 Empress International,skill-tier,stat:skill-health:10%,stat:skill-damage:13%,stat:skill-efficiency:8%
 Hana-U Corporation,skill-tier,stat:skill-haste:10%,stat:skill-damage:13%,stat:weapon-damage:18%
-Murakami Industries,skill-tier,stat:skill-duration:15%,stat:skill-damage:13%,stat:repair-skills:52%
+Murakami Industries,skill-tier,stat:skill-duration:15%,stat:repair-skills:35%,stat:skill-damage:18%
 Richter & Kaiser GmbH,skill-tier,stat:skill-haste:10%,stat:explosive-resistance:40%,stat:repair-skills:52%
 Shiny Monkey,skill-tier,stat:skill-duration:15%,stat:skill-efficiency:5%,stat:repair-skills:52%
 Wyvern Wear,skill-tier,stat:skill-damage:8%,stat:status-effects:20%,stat:skill-duration:45%
-Airaldi Holdings,weapon-damage,stat:marksman-rifle-damage:12%,stat:headshot-damage:13%,stat:damage-to-armor:5%
+Airaldi Holdings,weapon-damage,stat:marksman-rifle-damage:12%,stat:headshot-damage:26%,stat:damage-to-armor:5%
 Unit Alloys,weapon-damage,stat:rate-of-fire:5%,stat:assault-rifle-damage:24%,stat:magazine-size:50%
 Ceska Vyroba s.r.o.,weapon-damage,stat:critical-hit-chance:8%,stat:shotgun-damage:24%,stat:hazard-protection:30%
 Douglas & Harding,weapon-damage,stat:pistol-damage:24%,stat:skill-health:20%,stat:accuracy:50%
 Fenris Group AB,weapon-damage,stat:assault-rifle-damage:12%,stat:magazine-size:32%,stat:stability:50%
-Grupo Sombra S.A.,weapon-damage,stat:critical-hit-damage:13%,stat:explosive-damage:20%,stat:headshot-damage:13%
+Grupo Sombra S.A.,weapon-damage,stat:critical-hit-damage:13%,stat:explosive-damage:20%,stat:headshot-damage:39%
 Imminence Armaments,weapon-damage,stat:weapon-damage:6%,stat:pistol-damage:48%,stat:skill-health:30%
 Legatus S.p.A,weapon-damage,stat:magazine-size:15%,stat:smg-damage:24%,stat:optimal-range:105%
 Overlord Armaments,weapon-damage,stat:rifle-damage:12%,stat:accuracy:30%,stat:weapon-handling:30%

@@ -87,6 +87,7 @@ Imminence Armaments,N/A,Cap'n,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,
 Grupo Sombra S.A.,N/A,Festive Delivery,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Fireworks Show,type:gear-mod,N/A,N/A
 Edelweiss GPz,N/A,Momma Badger,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Safeguard,type:gear-mod,N/A,N/A
 5.11 Tactical,N/A,Keeper,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protector,type:gear-mod,N/A,N/A
+Airaldi Holdings,N/A,Melon Baller,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Concussion,type:gear-mod,N/A,N/A
 N/A,N/A,Acosta's Go-Bag,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
 N/A,N/A,Birdie's Quick Fix Pack,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
 N/A,N/A,Memento,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
