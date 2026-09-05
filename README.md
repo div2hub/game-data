@@ -1,6 +1,6 @@
-# CSV Data Conventions
+# CSV Data Collection
 
-These CSVs are the **source of truth** for all Division 2 game data used by tools in this org.
+These CSVs are a source of truth for all Division 2 game data. They are intended to feed tools/charts/sites by keeping the source data open source. Everyone is welcome to create an issue and/or create a pull request for a correction or addition.
 
 ## License
 
