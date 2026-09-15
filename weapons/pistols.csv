@@ -5,6 +5,7 @@ Tempest,sidearm,93R,FALSE,TRUE,62714,700,30,2.38,12,100,N/A,fixed:Tempest Magazi
 D50,sidearm,Desert Eagle,FALSE,FALSE,189171.5,200,8,2.24,18,100,type:optics-short,N/A,N/A,N/A,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Survivalist D50,sidearm,Desert Eagle,TRUE,FALSE,189171.5,200,8,2.24,18,100,type:optics-short,N/A,N/A,N/A,fixed:Perfect Sadist,fixed:pistol-damage-survivalist-d50,N/A,N/A,fixed:dtoc-survivalist-d50,N/A,N/A
 Liberty,sidearm,Desert Eagle,FALSE,TRUE,189171.5,200,8,2.24,18,100,fixed:Liberty Sight,fixed:Liberty Grip,fixed:Liberty Customs,fixed:Trigger Mechanism,fixed:Liberty or Death,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
+Rabid D50,sidearm,Desert Eagle,TRUE,FALSE,189171.5,200,8,2.24,18,100,type:optics-short,N/A,N/A,N/A,fixed:Foam at the Mouth,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 M1911,sidearm,M1911,FALSE,FALSE,129884.5,310,7,2.24,12,100,N/A,type:mag-pistol,N/A,N/A,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 M45A1,sidearm,M1911,FALSE,FALSE,117435.5,310,7,2.33,12,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Tactical M1911,sidearm,M1911,FALSE,FALSE,117435.5,310,7,2.33,12,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A

@@ -35,3 +35,4 @@ Harmony,main,MK47,TRUE,FALSE,124901,300,30,1.94,55,60,type:optics-long,type:mag-
 1886,main,1886,FALSE,FALSE,386988.5,100,8,3.46,35,60,N/A,type:mag-tubular,N/A,N/A,type:rifle,fixed:rifle-damage-weapon-core,fixed:critical-hit-damage-weapon-core,N/A,type:weapon-minor,N/A,N/A
 The Virginian,main,1886,TRUE,FALSE,386988.5,100,8,3.46,35,60,N/A,type:mag-tubular,N/A,N/A,fixed:Perfect Boomerang,fixed:rifle-damage-weapon-core,fixed:critical-hit-damage-weapon-core,N/A,type:weapon-minor,N/A,N/A
 Diamondback,main,1886,FALSE,TRUE,386988.5,100,8,3.47,35,60,fixed:Diamondback Dot Sight,fixed:Diamondback Lever,fixed:Diamondback Ornamentation,fixed:Diamondback Grip,fixed:Agonizing Bite,fixed:rifle-damage-weapon-core,fixed:critical-hit-damage-weapon-core,N/A,type:weapon-minor,N/A,N/A
+Cooler,main,Cooler,TRUE,FALSE,0,320,100,3.00,60,0,N/A,N/A,N/A,N/A,fixed:Refreshing,fixed:rifle-damage-weapon-core,fixed:critical-hit-damage-weapon-core,N/A,type:weapon-minor,N/A,N/A
