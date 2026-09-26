@@ -158,3 +158,4 @@ Perfect Boiling Point,N/A,The first 48% of your magazine will have -100% Critica
 Dragon's Breath,N/A,This weapon fires Dragon's Breath shells. Each shot has a 40% chance of applying Burn to the enemy. An enemy cannot be applied Burn if they are burning already. Weapon Damage is Amplified by 50% of your Status Effects bonus.
 Foam at the Mouth,N/A,"After killing an enemy with a headshot, applies Ensnare to the next enemy you hit. Amplifies weapon damage by 25% to ensnared enemies."
 Refreshing,N/A,"The weapon fires a stream of water. Hitting an ally agent builds stacks on them. Max stack is 5. Stacks deplete every 2s. While having at least 1 stack, the ally will have +50% Hazard Protection."
+Startling,N/A,"Whenever this weapon makes an enemy Suppressed, the enemy is applied Disorient, and you and allies receive +30% Damage to Targets Out of Cover for 15s."

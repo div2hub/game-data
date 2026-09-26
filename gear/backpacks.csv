@@ -20,7 +20,6 @@ Hana-U Corporation Backpack,Hana-U Corporation,N/A,FALSE,FALSE,type:gear-core,N/
 Murakami Industries Backpack,Murakami Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Richter & Kaiser GmbH Backpack,Richter & Kaiser GmbH,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Royal Works Backpack,Royal Works,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Bulldog,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,type:gear-mod,N/A,N/A
 Shiny Monkey Backpack,Shiny Monkey,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Wyvern Wear Backpack,Wyvern Wear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
 Airaldi Holdings Backpack,Airaldi Holdings,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
@@ -88,8 +87,10 @@ Festive Delivery,Grupo Sombra S.A.,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:ge
 Momma Badger,Edelweiss GPz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Safeguard,type:gear-mod,N/A,N/A
 Keeper,5.11 Tactical,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protector,type:gear-mod,N/A,N/A
 Melon Baller,Airaldi Holdings,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Concussion,type:gear-mod,N/A,N/A
+Bulldog,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,type:gear-mod,N/A,N/A
 Acosta's Go-Bag,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
 Birdie's Quick Fix Pack,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
 Memento,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
 NinjaBike Messenger Backpack,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Resourceful,type:gear-mod,N/A,N/A
 Harrier Pride,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Rebalance,type:gear-mod,N/A,N/A
+Sarru,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Decoy King,type:gear-mod,N/A,N/A
