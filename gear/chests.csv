@@ -20,7 +20,6 @@ Hana-U Corporation Chest,Hana-U Corporation,N/A,FALSE,FALSE,type:gear-core,N/A,N
 Murakami Industries Chest,Murakami Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Richter & Kaiser GmbH Chest,Richter & Kaiser GmbH,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Royal Works Chest,Royal Works,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
-Robin,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Gunslinger,type:gear-mod,N/A,N/A
 Shiny Monkey Chest,Shiny Monkey,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Wyvern Wear Chest,Wyvern Wear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
 Airaldi Holdings Chest,Airaldi Holdings,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:chest,type:gear-mod,N/A,N/A
@@ -89,6 +88,7 @@ Impetus,Wyvern Wear,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:g
 Benefactor,Edelweiss GPz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Empathic Resolve,type:gear-mod,N/A,N/A
 Trick Shot,Imminence Armaments,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Reassigned,type:gear-mod,N/A,N/A
 Rushdown,Richter & Kaiser GmbH,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Tag Team,type:gear-mod,N/A,N/A
+Robin,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Gunslinger,type:gear-mod,N/A,N/A
 Collector,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Hoarder,type:gear-mod,N/A,N/A
 Provocator,N/A,N/A,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:armor-regeneration-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Challenger,type:gear-mod,N/A,N/A
 Beacon,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Bond,type:gear-mod,N/A,N/A
