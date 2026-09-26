@@ -1,95 +1,95 @@
-brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
-5.11 Tactical,N/A,5.11 Tactical Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Badger Tuff,N/A,Badger Tuff Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Belstone Armory,N/A,Belstone Armory Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Brazos de Arcabuz,N/A,Brazos de Arcabuz Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Gila Guard,N/A,Gila Guard Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Golan Gear Ltd,N/A,Golan Gear Ltd Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Habsburg Guard,N/A,Habsburg Guard Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Improvised,N/A,Improvised Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Lengmo,N/A,Lengmo Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Palisade Steelworks,N/A,Palisade Steelworks Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Uzina Getica,N/A,Uzina Getica Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Yaahl Gear,N/A,Yaahl Gear Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Alps Summit Armaments,N/A,Alps Summit Armaments Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-China Light Industries,N/A,China Light Industries Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Edelweiss GPz,N/A,Edelweiss GPz Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Electrique,N/A,Electrique Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Empress International,N/A,Empress International Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Hana-U Corporation,N/A,Hana-U Corporation Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Murakami Industries,N/A,Murakami Industries Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Richter & Kaiser GmbH,N/A,Richter & Kaiser GmbH Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Royal Works,N/A,Royal Works Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Royal Works,N/A,Bulldog,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,type:gear-mod,N/A,N/A
-Shiny Monkey,N/A,Shiny Monkey Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Wyvern Wear,N/A,Wyvern Wear Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Airaldi Holdings,N/A,Airaldi Holdings Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Unit Alloys,N/A,Unit Alloys Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Ceska Vyroba s.r.o.,N/A,Ceska Vyroba s.r.o. Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Douglas & Harding,N/A,Douglas & Harding Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Fenris Group AB,N/A,Fenris Group AB Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Grupo Sombra S.A.,N/A,Grupo Sombra S.A. Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Imminence Armaments,N/A,Imminence Armaments Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Legatus S.p.A,N/A,Legatus S.p.A Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Overlord Armaments,N/A,Overlord Armaments Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Petrov Defense Group,N/A,Petrov Defense Group Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Providence Defense,N/A,Providence Defense Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Sokolov Concern,N/A,Sokolov Concern Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Urban Lookout,N/A,Urban Lookout Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-"Walker, Harris & Co.",N/A,"Walker, Harris & Co. Backpack",FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-Zwiadowka Sp. z o.o.,N/A,Zwiadowka Sp. z o.o. Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
-N/A,Aces & Eights,Aces & Eights Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Ace in the Sleeve,type:gear-mod,N/A,N/A
-N/A,Aegis,Aegis Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Polyethylene Plating,type:gear-mod,N/A,N/A
-N/A,Breaking Point,Breaking Point Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Point of Honor,type:gear-mod,N/A,N/A
-N/A,Cavalier,Cavalier Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Safe Charging,type:gear-mod,N/A,N/A
-N/A,Concentrated Company,Concentrated Company Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:One for All,type:gear-mod,N/A,N/A
-N/A,Eclipse Protocol,Eclipse Protocol Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Symptom Aggravator,type:gear-mod,N/A,N/A
-N/A,Foundry Bulwark,Foundry Bulwark Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Process Refinery,type:gear-mod,N/A,N/A
-N/A,Future Initiative,Future Initiative Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Advanced Combat Tactics,type:gear-mod,N/A,N/A
-N/A,Hard Wired,Hard Wired Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Short Circuit,type:gear-mod,N/A,N/A
-N/A,Heartbreaker,Heartbreaker Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Cold,type:gear-mod,N/A,N/A
-N/A,Hotshot,Hotshot Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Lucky,type:gear-mod,N/A,N/A
-N/A,Hunter's Fury,Hunter's Fury Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Overwhelming Force,type:gear-mod,N/A,N/A
-N/A,Measured Assembly,Measured Assembly Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Smart Cooperation,type:gear-mod,N/A,N/A
-N/A,Negotiator's Dilemma,Negotiator's Dilemma Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Critical Measures,type:gear-mod,N/A,N/A
-N/A,Ongoing Directive,Ongoing Directive Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Trauma Specialist,type:gear-mod,N/A,N/A
-N/A,Ortiz: Exuro,Ortiz: Exuro Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Heatstroke,type:gear-mod,N/A,N/A
-N/A,Ortiz: Reficere,Ortiz: Reficere Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Improved Dampeners,type:gear-mod,N/A,N/A
-N/A,Refactor,Refactor Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Over-engineered,type:gear-mod,N/A,N/A
-N/A,Rigger,Rigger Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Complete Uptime,type:gear-mod,N/A,N/A
-N/A,Striker's Battlegear,Striker's Battlegear Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Risk Management,type:gear-mod,N/A,N/A
-N/A,System Corruption,System Corruption Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Multithreaded Execution,type:gear-mod,N/A,N/A
-N/A,Tip of the Spear,Tip of the Spear Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Signature Moves,type:gear-mod,N/A,N/A
-N/A,Tipping Scales,Tipping Scales Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Snowball,type:gear-mod,N/A,N/A
-N/A,True Patriot,True Patriot Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Patriotic Boost,type:gear-mod,N/A,N/A
-N/A,Umbra Initiative,Umbra Initiative Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Into the Light,type:gear-mod,N/A,N/A
-N/A,Virtuoso,Virtuoso Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Accelerando,type:gear-mod,N/A,N/A
-N/A,Core Strength,Core Strength Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Outer Core,type:gear-mod,N/A,N/A
-N/A,Ember Engine,Ember Engine Backpack,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:White Hot,type:gear-mod,N/A,N/A
-Belstone Armory,N/A,Liquid Engineer,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Bloodsucker,type:gear-mod,N/A,N/A
-Brazos de Arcabuz,N/A,Hermano,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Overclock,type:gear-mod,N/A,N/A
-Habsburg Guard,N/A,The Courier,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Creeping Death,type:gear-mod,N/A,N/A
-Lengmo,N/A,Backbone,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Unstoppable Force,type:gear-mod,N/A,N/A
-Golan Gear Ltd,N/A,Anarchist's Cookbook,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Wicked,type:gear-mod,N/A,N/A
-China Light Industries,N/A,Strategic Alignment,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Shock and Awe,type:gear-mod,N/A,N/A
-Electrique,N/A,Lavoisier,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Galvanize,type:gear-mod,N/A,N/A
-"Walker, Harris & Co.",N/A,Matador,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Adrenaline Rush,type:gear-mod,N/A,N/A
-Providence Defense,N/A,The Gift,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Vigilance,type:gear-mod,N/A,N/A
-Alps Summit Armaments,N/A,Percussive Maintenance,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Tech Support,type:gear-mod,N/A,N/A
-Legatus S.p.A,N/A,Vigil,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Versatile,type:gear-mod,N/A,N/A
-Ceska Vyroba s.r.o.,N/A,Devil's Due,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Clutch,type:gear-mod,N/A,N/A
-Empress International,N/A,Battery Pack,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Calculated,type:gear-mod,N/A,N/A
-Uzina Getica,N/A,The Setup,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Opportunistic,type:gear-mod,N/A,N/A
-Hana-U Corporation,N/A,Force Multiplier,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Combined Arms,type:gear-mod,N/A,N/A
-Palisade Steelworks,N/A,Proxy,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Tamper Proof,type:gear-mod,N/A,N/A
-Shiny Monkey,N/A,Axel,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Energize,type:gear-mod,N/A,N/A
-Imminence Armaments,N/A,Cap'n,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Leadership,type:gear-mod,N/A,N/A
-Grupo Sombra S.A.,N/A,Festive Delivery,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Fireworks Show,type:gear-mod,N/A,N/A
-Edelweiss GPz,N/A,Momma Badger,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Safeguard,type:gear-mod,N/A,N/A
-5.11 Tactical,N/A,Keeper,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protector,type:gear-mod,N/A,N/A
-Airaldi Holdings,N/A,Melon Baller,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Concussion,type:gear-mod,N/A,N/A
-N/A,N/A,Acosta's Go-Bag,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
-N/A,N/A,Birdie's Quick Fix Pack,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
-N/A,N/A,Memento,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
-N/A,N/A,NinjaBike Messenger Backpack,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Resourceful,type:gear-mod,N/A,N/A
-N/A,N/A,Harrier Pride,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Rebalance,type:gear-mod,N/A,N/A
+name,brand_set,gear_set,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
+5.11 Tactical Backpack,5.11 Tactical,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Badger Tuff Backpack,Badger Tuff,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Belstone Armory Backpack,Belstone Armory,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Brazos de Arcabuz Backpack,Brazos de Arcabuz,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Gila Guard Backpack,Gila Guard,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Golan Gear Ltd Backpack,Golan Gear Ltd,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Habsburg Guard Backpack,Habsburg Guard,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Improvised Backpack,Improvised,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Lengmo Backpack,Lengmo,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Palisade Steelworks Backpack,Palisade Steelworks,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Uzina Getica Backpack,Uzina Getica,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Yaahl Gear Backpack,Yaahl Gear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Alps Summit Armaments Backpack,Alps Summit Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+China Light Industries Backpack,China Light Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Edelweiss GPz Backpack,Edelweiss GPz,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Electrique Backpack,Electrique,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Empress International Backpack,Empress International,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Hana-U Corporation Backpack,Hana-U Corporation,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Murakami Industries Backpack,Murakami Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Richter & Kaiser GmbH Backpack,Richter & Kaiser GmbH,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Royal Works Backpack,Royal Works,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Bulldog,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,type:gear-mod,N/A,N/A
+Shiny Monkey Backpack,Shiny Monkey,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Wyvern Wear Backpack,Wyvern Wear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Airaldi Holdings Backpack,Airaldi Holdings,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Unit Alloys Backpack,Unit Alloys,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Ceska Vyroba s.r.o. Backpack,Ceska Vyroba s.r.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Douglas & Harding Backpack,Douglas & Harding,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Fenris Group AB Backpack,Fenris Group AB,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Grupo Sombra S.A. Backpack,Grupo Sombra S.A.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Imminence Armaments Backpack,Imminence Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Legatus S.p.A Backpack,Legatus S.p.A,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Overlord Armaments Backpack,Overlord Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Petrov Defense Group Backpack,Petrov Defense Group,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Providence Defense Backpack,Providence Defense,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Sokolov Concern Backpack,Sokolov Concern,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Urban Lookout Backpack,Urban Lookout,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+"Walker, Harris & Co. Backpack","Walker, Harris & Co.",N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Zwiadowka Sp. z o.o. Backpack,Zwiadowka Sp. z o.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,type:backpack,type:gear-mod,N/A,N/A
+Aces & Eights Backpack,N/A,Aces & Eights,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Ace in the Sleeve,type:gear-mod,N/A,N/A
+Aegis Backpack,N/A,Aegis,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Polyethylene Plating,type:gear-mod,N/A,N/A
+Breaking Point Backpack,N/A,Breaking Point,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Point of Honor,type:gear-mod,N/A,N/A
+Cavalier Backpack,N/A,Cavalier,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Safe Charging,type:gear-mod,N/A,N/A
+Concentrated Company Backpack,N/A,Concentrated Company,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:One for All,type:gear-mod,N/A,N/A
+Eclipse Protocol Backpack,N/A,Eclipse Protocol,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Symptom Aggravator,type:gear-mod,N/A,N/A
+Foundry Bulwark Backpack,N/A,Foundry Bulwark,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Process Refinery,type:gear-mod,N/A,N/A
+Future Initiative Backpack,N/A,Future Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Advanced Combat Tactics,type:gear-mod,N/A,N/A
+Hard Wired Backpack,N/A,Hard Wired,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Short Circuit,type:gear-mod,N/A,N/A
+Heartbreaker Backpack,N/A,Heartbreaker,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Cold,type:gear-mod,N/A,N/A
+Hotshot Backpack,N/A,Hotshot,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Lucky,type:gear-mod,N/A,N/A
+Hunter's Fury Backpack,N/A,Hunter's Fury,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Overwhelming Force,type:gear-mod,N/A,N/A
+Measured Assembly Backpack,N/A,Measured Assembly,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Smart Cooperation,type:gear-mod,N/A,N/A
+Negotiator's Dilemma Backpack,N/A,Negotiator's Dilemma,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Critical Measures,type:gear-mod,N/A,N/A
+Ongoing Directive Backpack,N/A,Ongoing Directive,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Trauma Specialist,type:gear-mod,N/A,N/A
+Ortiz: Exuro Backpack,N/A,Ortiz: Exuro,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Heatstroke,type:gear-mod,N/A,N/A
+Ortiz: Reficere Backpack,N/A,Ortiz: Reficere,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Improved Dampeners,type:gear-mod,N/A,N/A
+Refactor Backpack,N/A,Refactor,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Over-engineered,type:gear-mod,N/A,N/A
+Rigger Backpack,N/A,Rigger,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Complete Uptime,type:gear-mod,N/A,N/A
+Striker's Battlegear Backpack,N/A,Striker's Battlegear,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Risk Management,type:gear-mod,N/A,N/A
+System Corruption Backpack,N/A,System Corruption,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Multithreaded Execution,type:gear-mod,N/A,N/A
+Tip of the Spear Backpack,N/A,Tip of the Spear,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Signature Moves,type:gear-mod,N/A,N/A
+Tipping Scales Backpack,N/A,Tipping Scales,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Snowball,type:gear-mod,N/A,N/A
+True Patriot Backpack,N/A,True Patriot,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Patriotic Boost,type:gear-mod,N/A,N/A
+Umbra Initiative Backpack,N/A,Umbra Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Into the Light,type:gear-mod,N/A,N/A
+Virtuoso Backpack,N/A,Virtuoso,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Accelerando,type:gear-mod,N/A,N/A
+Core Strength Backpack,N/A,Core Strength,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:Outer Core,type:gear-mod,N/A,N/A
+Ember Engine Backpack,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,fixed:White Hot,type:gear-mod,N/A,N/A
+Liquid Engineer,Belstone Armory,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Bloodsucker,type:gear-mod,N/A,N/A
+Hermano,Brazos de Arcabuz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Overclock,type:gear-mod,N/A,N/A
+The Courier,Habsburg Guard,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Creeping Death,type:gear-mod,N/A,N/A
+Backbone,Lengmo,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Unstoppable Force,type:gear-mod,N/A,N/A
+Anarchist's Cookbook,Golan Gear Ltd,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Wicked,type:gear-mod,N/A,N/A
+Strategic Alignment,China Light Industries,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Shock and Awe,type:gear-mod,N/A,N/A
+Lavoisier,Electrique,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Galvanize,type:gear-mod,N/A,N/A
+Matador,"Walker, Harris & Co.",N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Adrenaline Rush,type:gear-mod,N/A,N/A
+The Gift,Providence Defense,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Vigilance,type:gear-mod,N/A,N/A
+Percussive Maintenance,Alps Summit Armaments,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Tech Support,type:gear-mod,N/A,N/A
+Vigil,Legatus S.p.A,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Versatile,type:gear-mod,N/A,N/A
+Devil's Due,Ceska Vyroba s.r.o.,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Clutch,type:gear-mod,N/A,N/A
+Battery Pack,Empress International,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Calculated,type:gear-mod,N/A,N/A
+The Setup,Uzina Getica,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Opportunistic,type:gear-mod,N/A,N/A
+Force Multiplier,Hana-U Corporation,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Combined Arms,type:gear-mod,N/A,N/A
+Proxy,Palisade Steelworks,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Tamper Proof,type:gear-mod,N/A,N/A
+Axel,Shiny Monkey,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Energize,type:gear-mod,N/A,N/A
+Cap'n,Imminence Armaments,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Leadership,type:gear-mod,N/A,N/A
+Festive Delivery,Grupo Sombra S.A.,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Fireworks Show,type:gear-mod,N/A,N/A
+Momma Badger,Edelweiss GPz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Safeguard,type:gear-mod,N/A,N/A
+Keeper,5.11 Tactical,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protector,type:gear-mod,N/A,N/A
+Melon Baller,Airaldi Holdings,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Concussion,type:gear-mod,N/A,N/A
+Acosta's Go-Bag,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
+Birdie's Quick Fix Pack,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
+Memento,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
+NinjaBike Messenger Backpack,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Resourceful,type:gear-mod,N/A,N/A
+Harrier Pride,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Rebalance,type:gear-mod,N/A,N/A

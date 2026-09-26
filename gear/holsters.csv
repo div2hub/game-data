@@ -1,80 +1,80 @@
-brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
-5.11 Tactical,N/A,5.11 Tactical Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Badger Tuff,N/A,Badger Tuff Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Belstone Armory,N/A,Belstone Armory Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Brazos de Arcabuz,N/A,Brazos de Arcabuz Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Gila Guard,N/A,Gila Guard Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Golan Gear Ltd,N/A,Golan Gear Ltd Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Habsburg Guard,N/A,Habsburg Guard Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Improvised,N/A,Improvised Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
-Lengmo,N/A,Lengmo Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Palisade Steelworks,N/A,Palisade Steelworks Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Uzina Getica,N/A,Uzina Getica Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Yaahl Gear,N/A,Yaahl Gear Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Alps Summit Armaments,N/A,Alps Summit Armaments Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-China Light Industries,N/A,China Light Industries Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Edelweiss GPz,N/A,Edelweiss GPz Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Electrique,N/A,Electrique Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Empress International,N/A,Empress International Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Hana-U Corporation,N/A,Hana-U Corporation Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Murakami Industries,N/A,Murakami Industries Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Richter & Kaiser GmbH,N/A,Richter & Kaiser GmbH Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Royal Works,N/A,Royal Works Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,N/A,Shiny Monkey Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,N/A,Wyvern Wear Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Airaldi Holdings,N/A,Airaldi Holdings Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Unit Alloys,N/A,Unit Alloys Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,N/A,Ceska Vyroba s.r.o. Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Douglas & Harding,N/A,Douglas & Harding Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Fenris Group AB,N/A,Fenris Group AB Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Grupo Sombra S.A.,N/A,Grupo Sombra S.A. Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,N/A,Imminence Armaments Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Legatus S.p.A,N/A,Legatus S.p.A Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Overlord Armaments,N/A,Overlord Armaments Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Petrov Defense Group,N/A,Petrov Defense Group Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Providence Defense,N/A,Providence Defense Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Sokolov Concern,N/A,Sokolov Concern Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Urban Lookout,N/A,Urban Lookout Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-"Walker, Harris & Co.",N/A,"Walker, Harris & Co. Holster",FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Zwiadowka Sp. z o.o.,N/A,Zwiadowka Sp. z o.o. Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-N/A,Aces & Eights,Aces & Eights Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Aegis,Aegis Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Breaking Point,Breaking Point Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Cavalier,Cavalier Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Concentrated Company,Concentrated Company Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Eclipse Protocol,Eclipse Protocol Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Foundry Bulwark,Foundry Bulwark Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Future Initiative,Future Initiative Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Hard Wired,Hard Wired Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Heartbreaker,Heartbreaker Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Hotshot,Hotshot Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Hunter's Fury,Hunter's Fury Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Measured Assembly,Measured Assembly Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Negotiator's Dilemma,Negotiator's Dilemma Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ongoing Directive,Ongoing Directive Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ortiz: Exuro,Ortiz: Exuro Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ortiz: Reficere,Ortiz: Reficere Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Refactor,Refactor Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Rigger,Rigger Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Striker's Battlegear,Striker's Battlegear Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,System Corruption,System Corruption Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Tip of the Spear,Tip of the Spear Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Tipping Scales,Tipping Scales Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,True Patriot,True Patriot Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Umbra Initiative,Umbra Initiative Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Virtuoso,Virtuoso Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Core Strength,Core Strength Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ember Engine,Ember Engine Holster,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
-Richter & Kaiser GmbH,N/A,Forge,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:shield-health-forge,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Badger Tuff,N/A,Ammo Dump,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:ammo-capacity-ammo-dump,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A
-Brazos de Arcabuz,N/A,Picaros Holster,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-damage-picaros-holster,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Urban Lookout,N/A,Spot-On,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:accuracy-spot-on,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Unit Alloys,N/A,Salvo,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:rate-of-fire-salvo,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,N/A,Claws Out,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:melee-damage-claws-out,type:gear-minor,fixed:pistol-damage-claws-out,N/A,N/A,N/A,N/A
-Royal Works,N/A,Bulldog,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,N/A,N/A,N/A
-N/A,N/A,Centurion Scabbard,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:weapon-handling-gear-minor,N/A,fixed:Counter,N/A,N/A,N/A
-N/A,N/A,Dodge City Gunslinger's Holster,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:weapon-handling-gear-minor,fixed:headshot-damage-gear-minor,N/A,fixed:Quick Draw,N/A,N/A,N/A
-N/A,N/A,Imperial Dynasty,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:status-effects-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Dragon's Glare,N/A,N/A,N/A
-N/A,N/A,Shocker Punch,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:explosive-resistance-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Defibrillator,N/A,N/A,N/A
-N/A,N/A,Waveform,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:Alternating Current,N/A,N/A,N/A
-N/A,N/A,Nimble Holster,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Bob and Weave,N/A,N/A,N/A
+name,brand_set,gear_set,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
+5.11 Tactical Holster,5.11 Tactical,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Badger Tuff Holster,Badger Tuff,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Belstone Armory Holster,Belstone Armory,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Brazos de Arcabuz Holster,Brazos de Arcabuz,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Gila Guard Holster,Gila Guard,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Golan Gear Ltd Holster,Golan Gear Ltd,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Habsburg Guard Holster,Habsburg Guard,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Improvised Holster,Improvised,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
+Lengmo Holster,Lengmo,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Palisade Steelworks Holster,Palisade Steelworks,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Uzina Getica Holster,Uzina Getica,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Yaahl Gear Holster,Yaahl Gear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments Holster,Alps Summit Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+China Light Industries Holster,China Light Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Edelweiss GPz Holster,Edelweiss GPz,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Electrique Holster,Electrique,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Empress International Holster,Empress International,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Hana-U Corporation Holster,Hana-U Corporation,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Murakami Industries Holster,Murakami Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Richter & Kaiser GmbH Holster,Richter & Kaiser GmbH,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Royal Works Holster,Royal Works,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey Holster,Shiny Monkey,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear Holster,Wyvern Wear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Airaldi Holdings Holster,Airaldi Holdings,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Unit Alloys Holster,Unit Alloys,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Ceska Vyroba s.r.o. Holster,Ceska Vyroba s.r.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Douglas & Harding Holster,Douglas & Harding,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Fenris Group AB Holster,Fenris Group AB,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Grupo Sombra S.A. Holster,Grupo Sombra S.A.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments Holster,Imminence Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Legatus S.p.A Holster,Legatus S.p.A,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments Holster,Overlord Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group Holster,Petrov Defense Group,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Providence Defense Holster,Providence Defense,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern Holster,Sokolov Concern,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Urban Lookout Holster,Urban Lookout,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+"Walker, Harris & Co. Holster","Walker, Harris & Co.",N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o. Holster,Zwiadowka Sp. z o.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Aces & Eights Holster,N/A,Aces & Eights,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Aegis Holster,N/A,Aegis,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Breaking Point Holster,N/A,Breaking Point,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Cavalier Holster,N/A,Cavalier,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Concentrated Company Holster,N/A,Concentrated Company,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Eclipse Protocol Holster,N/A,Eclipse Protocol,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Foundry Bulwark Holster,N/A,Foundry Bulwark,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Future Initiative Holster,N/A,Future Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Hard Wired Holster,N/A,Hard Wired,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Heartbreaker Holster,N/A,Heartbreaker,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Hotshot Holster,N/A,Hotshot,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Hunter's Fury Holster,N/A,Hunter's Fury,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Measured Assembly Holster,N/A,Measured Assembly,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Negotiator's Dilemma Holster,N/A,Negotiator's Dilemma,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ongoing Directive Holster,N/A,Ongoing Directive,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ortiz: Exuro Holster,N/A,Ortiz: Exuro,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ortiz: Reficere Holster,N/A,Ortiz: Reficere,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Refactor Holster,N/A,Refactor,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Rigger Holster,N/A,Rigger,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Striker's Battlegear Holster,N/A,Striker's Battlegear,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+System Corruption Holster,N/A,System Corruption,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Tip of the Spear Holster,N/A,Tip of the Spear,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Tipping Scales Holster,N/A,Tipping Scales,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+True Patriot Holster,N/A,True Patriot,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Umbra Initiative Holster,N/A,Umbra Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Virtuoso Holster,N/A,Virtuoso,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Core Strength Holster,N/A,Core Strength,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ember Engine Holster,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+Forge,Richter & Kaiser GmbH,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:shield-health-forge,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Ammo Dump,Badger Tuff,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:ammo-capacity-ammo-dump,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A
+Picaros Holster,Brazos de Arcabuz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-damage-picaros-holster,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Spot-On,Urban Lookout,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:accuracy-spot-on,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Salvo,Unit Alloys,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:rate-of-fire-salvo,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Claws Out,Wyvern Wear,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:melee-damage-claws-out,type:gear-minor,fixed:pistol-damage-claws-out,N/A,N/A,N/A,N/A
+Bulldog,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,N/A,N/A,N/A
+Centurion Scabbard,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:weapon-handling-gear-minor,N/A,fixed:Counter,N/A,N/A,N/A
+Dodge City Gunslinger's Holster,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:weapon-handling-gear-minor,fixed:headshot-damage-gear-minor,N/A,fixed:Quick Draw,N/A,N/A,N/A
+Imperial Dynasty,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:status-effects-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Dragon's Glare,N/A,N/A,N/A
+Shocker Punch,N/A,N/A,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:explosive-resistance-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Defibrillator,N/A,N/A,N/A
+Waveform,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:Alternating Current,N/A,N/A,N/A
+Nimble Holster,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Bob and Weave,N/A,N/A,N/A

@@ -95,27 +95,31 @@ All pistols are `sidearm`. Sawed-Off family shotguns are `sidearm`. Everything e
 
 - `is_named` and `is_exotic` use uppercase `TRUE`/`FALSE`
 
+## Row Key
+
+The first column of every CSV is the row key. Its value is unique within the file, and the transform fails the build on a duplicate. By convention the key column is named `id` where the file carries machine ids and `name` otherwise, but only the position is a rule.
+
+Other rows point at a row by its key: `fixed:<name>` talent and mod cells, `talent:<name>` bonus cells, `brand_set` and `gear_set` cells, `stat_id` and attribute id cells, and `parent` cells in the specialization files. A reference to a key that exists in no CSV fails the build. Create the referenced row first, even when it is not complete yet.
+
 ## Empty Cells
 
-Empty cells are **not allowed** in any CSV. Every cell must contain a value or `N/A` (meaning "this field does not apply to this item"). Empty cells that are not registered in `known_gaps.json` are a data error.
+A cell is filled, `N/A` (this field does not apply to this row), or empty. Empty means the value is not known yet. Never leave a cell empty for any other reason.
 
-## Known Gaps (`known_gaps.json`)
+A row with any empty cell is incomplete, and the transform leaves it out of the generated JSON. The item does not exist to the app until every cell is filled. Any row that points at a left-out row is left out too, all the way up the chain, so a new weapon whose fixed mods are still being entered stays out together with its mods. Leaving rows out is not a build failure. The transform prints each left-out row as `SKIPPED <file>:<key>` with the empty columns, in the build log only.
 
-When data is legitimately unavailable (e.g., unreleased content, stats that require in-game verification), register the gap in `known_gaps.json` instead of leaving unexplained empty cells.
+## Known Gaps (`known_gaps.csv`)
 
-Each entry has:
-- `reason` — why the data is missing
-- `expires` — ISO date after which the gap becomes a build error
-- `gaps` — list of `{ file, name, columns }` specifying exactly which cells are empty
+`known_gaps.csv` is the data team's record of cells whose value is not known yet, or is entered but still needs confirming. It is for people to read. It exists so a developer can commit what is known and leave a note of what is not. One row per item:
 
-The `name` field matches the row's `name` (or `stat_name`) column. Use `@all` to match all rows in a file for a given column.
+| Column | Meaning |
+|---|---|
+| `file` | CSV path relative to this folder |
+| `key` | the row's key, its first-column value |
+| `cells` | pipe-delimited column names. An empty listed cell is unknown; a filled listed cell is entered but unconfirmed |
+| `reason` | why the value is missing or unconfirmed |
+| `expected` | ISO date the team expects to fill or confirm it, for planning only |
 
-**Rules:**
-- Matched + not expired → warning (build passes)
-- Matched + expired → error (build fails — fill the data or extend the deadline)
-- Unmatched → error (build fails — unknown empty cell)
-
-When data becomes available, fill the CSV cells and remove the corresponding entry from `known_gaps.json`.
+When the data is filled and confirmed, delete the row.
 
 ## Descriptions Record Measured Behaviour
 
@@ -152,6 +156,8 @@ The variant prefix is `name` with the trailing `skill` part removed. `Decoy` is 
 Files: `gear/masks.csv`, `gear/backpacks.csv`, `gear/chests.csv`, `gear/gloves.csv`, `gear/holsters.csv`, `gear/knees.csv`
 
 Each row is a gear piece (generic brand, generic gear set, named, or exotic). The `brand_set` or `gear_set` column links to `gear/brand_sets.csv` or `gear/gear_sets.csv` for set bonuses. The unused link column (`gear_set` on brand pieces, `brand_set` on gear set/exotic pieces) must be `N/A`.
+
+Columns lead with `name`, then `brand_set` and `gear_set`, then the piece's own properties, the same shape as the weapon CSVs, which lead with `name` and then `family`.
 
 - **Generic brand piece**: `brand_set` filled, `gear_set=N/A`, `name` is `{Brand} {Slot}` (e.g., "5.11 Tactical Mask")
 - **Named with talent**: `brand_set` filled, `is_named=true`, `fixed_talent` filled
@@ -210,4 +216,3 @@ Gunner Coupler Tier 2
 - Node rows must have `max_tier ∈ 1..5`, exactly the first `max_tier` `tierN_cost` columns filled and the rest `N/A`. `description` is filled for `category=item` rows and `N/A` for `category=talent` rows (descriptions for talents live in `specialization_talents.csv`).
 - Hub rows must have `budget` set, with `category`, `description`, `max_tier`, and all `tierN_cost` set to `N/A`.
 - `parent` resolves to another row's `name` in the same file or is `N/A`.
-- Node names are unique within a file.

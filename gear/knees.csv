@@ -1,78 +1,78 @@
-brand_set,gear_set,name,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
-5.11 Tactical,N/A,5.11 Tactical Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Badger Tuff,N/A,Badger Tuff Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Belstone Armory,N/A,Belstone Armory Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Brazos de Arcabuz,N/A,Brazos de Arcabuz Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Gila Guard,N/A,Gila Guard Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Golan Gear Ltd,N/A,Golan Gear Ltd Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Habsburg Guard,N/A,Habsburg Guard Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Improvised,N/A,Improvised Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
-Lengmo,N/A,Lengmo Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Palisade Steelworks,N/A,Palisade Steelworks Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Uzina Getica,N/A,Uzina Getica Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Yaahl Gear,N/A,Yaahl Gear Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Alps Summit Armaments,N/A,Alps Summit Armaments Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-China Light Industries,N/A,China Light Industries Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Edelweiss GPz,N/A,Edelweiss GPz Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Electrique,N/A,Electrique Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Empress International,N/A,Empress International Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Hana-U Corporation,N/A,Hana-U Corporation Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Murakami Industries,N/A,Murakami Industries Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Richter & Kaiser GmbH,N/A,Richter & Kaiser GmbH Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Royal Works,N/A,Royal Works Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,N/A,Shiny Monkey Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Wyvern Wear,N/A,Wyvern Wear Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Airaldi Holdings,N/A,Airaldi Holdings Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Unit Alloys,N/A,Unit Alloys Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,N/A,Ceska Vyroba s.r.o. Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Douglas & Harding,N/A,Douglas & Harding Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Fenris Group AB,N/A,Fenris Group AB Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Grupo Sombra S.A.,N/A,Grupo Sombra S.A. Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,N/A,Imminence Armaments Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Legatus S.p.A,N/A,Legatus S.p.A Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Overlord Armaments,N/A,Overlord Armaments Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Petrov Defense Group,N/A,Petrov Defense Group Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Providence Defense,N/A,Providence Defense Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Sokolov Concern,N/A,Sokolov Concern Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Urban Lookout,N/A,Urban Lookout Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-"Walker, Harris & Co.",N/A,"Walker, Harris & Co. Kneepads",FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Zwiadowka Sp. z o.o.,N/A,Zwiadowka Sp. z o.o. Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-N/A,Aces & Eights,Aces & Eights Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Aegis,Aegis Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Breaking Point,Breaking Point Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Cavalier,Cavalier Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Concentrated Company,Concentrated Company Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Eclipse Protocol,Eclipse Protocol Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Foundry Bulwark,Foundry Bulwark Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Future Initiative,Future Initiative Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Hard Wired,Hard Wired Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Heartbreaker,Heartbreaker Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Hotshot,Hotshot Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Hunter's Fury,Hunter's Fury Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Measured Assembly,Measured Assembly Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Negotiator's Dilemma,Negotiator's Dilemma Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ongoing Directive,Ongoing Directive Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ortiz: Exuro,Ortiz: Exuro Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ortiz: Reficere,Ortiz: Reficere Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Refactor,Refactor Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Rigger,Rigger Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Striker's Battlegear,Striker's Battlegear Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,System Corruption,System Corruption Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Tip of the Spear,Tip of the Spear Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Tipping Scales,Tipping Scales Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,True Patriot,True Patriot Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Umbra Initiative,Umbra Initiative Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Virtuoso,Virtuoso Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Core Strength,Core Strength Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-N/A,Ember Engine,Ember Engine Kneepads,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
-Overlord Armaments,N/A,Fox's Prayer,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:dtoc-foxs-prayer,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Electrique,N/A,Snow Machine,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Flurry,N/A,N/A,N/A
-Ceska Vyroba s.r.o.,N/A,Turmoil,TRUE,FALSE,fixed:weapon-damage-turmoil,N/A,N/A,fixed:critical-hit-chance-turmoil,fixed:critical-hit-damage-turmoil,N/A,fixed:Bewildered,N/A,N/A,N/A
-Murakami Industries,N/A,Emperor's Guard,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:armor-regeneration-emperors-guard,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Shiny Monkey,N/A,Grease,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-grease,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-Imminence Armaments,N/A,Cloak,TRUE,FALSE,fixed:weapon-damage-cloak,N/A,N/A,fixed:reduced-threat-cloak,type:gear-minor,N/A,N/A,N/A,N/A,N/A
-N/A,N/A,Sawyer's Kneepads,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:explosive-resistance-gear-minor,fixed:health-gear-minor,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
-N/A,N/A,Acosta Kneepads,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,type:gear-offensive-minor,type:gear-defensive-minor,N/A,fixed:Escape Plan,N/A,N/A,N/A
-N/A,N/A,Blacklisters,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Ostracize,N/A,N/A,N/A
-N/A,N/A,NinjaBike Messenger Kneepads,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Parkour!,N/A,N/A,N/A
-N/A,N/A,Nurse's Kneepads,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Impervious,N/A,N/A,N/A
+name,brand_set,gear_set,is_named,is_exotic,core_1,core_2,core_3,minor_1,minor_2,minor_3,talent_slot,mod_1,mod_2,mod_3
+5.11 Tactical Kneepads,5.11 Tactical,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Badger Tuff Kneepads,Badger Tuff,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Belstone Armory Kneepads,Belstone Armory,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Brazos de Arcabuz Kneepads,Brazos de Arcabuz,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Gila Guard Kneepads,Gila Guard,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Golan Gear Ltd Kneepads,Golan Gear Ltd,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Habsburg Guard Kneepads,Habsburg Guard,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Improvised Kneepads,Improvised,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,type:gear-mod,N/A,N/A
+Lengmo Kneepads,Lengmo,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Palisade Steelworks Kneepads,Palisade Steelworks,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Uzina Getica Kneepads,Uzina Getica,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Yaahl Gear Kneepads,Yaahl Gear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Alps Summit Armaments Kneepads,Alps Summit Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+China Light Industries Kneepads,China Light Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Edelweiss GPz Kneepads,Edelweiss GPz,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Electrique Kneepads,Electrique,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Empress International Kneepads,Empress International,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Hana-U Corporation Kneepads,Hana-U Corporation,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Murakami Industries Kneepads,Murakami Industries,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Richter & Kaiser GmbH Kneepads,Richter & Kaiser GmbH,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Royal Works Kneepads,Royal Works,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Shiny Monkey Kneepads,Shiny Monkey,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Wyvern Wear Kneepads,Wyvern Wear,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Airaldi Holdings Kneepads,Airaldi Holdings,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Unit Alloys Kneepads,Unit Alloys,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Ceska Vyroba s.r.o. Kneepads,Ceska Vyroba s.r.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Douglas & Harding Kneepads,Douglas & Harding,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Fenris Group AB Kneepads,Fenris Group AB,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Grupo Sombra S.A. Kneepads,Grupo Sombra S.A.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Imminence Armaments Kneepads,Imminence Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Legatus S.p.A Kneepads,Legatus S.p.A,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Overlord Armaments Kneepads,Overlord Armaments,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Petrov Defense Group Kneepads,Petrov Defense Group,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Providence Defense Kneepads,Providence Defense,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Sokolov Concern Kneepads,Sokolov Concern,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Urban Lookout Kneepads,Urban Lookout,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+"Walker, Harris & Co. Kneepads","Walker, Harris & Co.",N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Zwiadowka Sp. z o.o. Kneepads,Zwiadowka Sp. z o.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Aces & Eights Kneepads,N/A,Aces & Eights,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Aegis Kneepads,N/A,Aegis,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Breaking Point Kneepads,N/A,Breaking Point,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Cavalier Kneepads,N/A,Cavalier,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Concentrated Company Kneepads,N/A,Concentrated Company,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Eclipse Protocol Kneepads,N/A,Eclipse Protocol,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Foundry Bulwark Kneepads,N/A,Foundry Bulwark,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Future Initiative Kneepads,N/A,Future Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Hard Wired Kneepads,N/A,Hard Wired,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Heartbreaker Kneepads,N/A,Heartbreaker,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Hotshot Kneepads,N/A,Hotshot,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Hunter's Fury Kneepads,N/A,Hunter's Fury,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Measured Assembly Kneepads,N/A,Measured Assembly,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Negotiator's Dilemma Kneepads,N/A,Negotiator's Dilemma,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ongoing Directive Kneepads,N/A,Ongoing Directive,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ortiz: Exuro Kneepads,N/A,Ortiz: Exuro,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ortiz: Reficere Kneepads,N/A,Ortiz: Reficere,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Refactor Kneepads,N/A,Refactor,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Rigger Kneepads,N/A,Rigger,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Striker's Battlegear Kneepads,N/A,Striker's Battlegear,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+System Corruption Kneepads,N/A,System Corruption,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Tip of the Spear Kneepads,N/A,Tip of the Spear,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Tipping Scales Kneepads,N/A,Tipping Scales,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+True Patriot Kneepads,N/A,True Patriot,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Umbra Initiative Kneepads,N/A,Umbra Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Virtuoso Kneepads,N/A,Virtuoso,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Core Strength Kneepads,N/A,Core Strength,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Ember Engine Kneepads,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+Fox's Prayer,Overlord Armaments,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:dtoc-foxs-prayer,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Snow Machine,Electrique,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Flurry,N/A,N/A,N/A
+Turmoil,Ceska Vyroba s.r.o.,N/A,TRUE,FALSE,fixed:weapon-damage-turmoil,N/A,N/A,fixed:critical-hit-chance-turmoil,fixed:critical-hit-damage-turmoil,N/A,fixed:Bewildered,N/A,N/A,N/A
+Emperor's Guard,Murakami Industries,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:armor-regeneration-emperors-guard,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Grease,Shiny Monkey,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-grease,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Cloak,Imminence Armaments,N/A,TRUE,FALSE,fixed:weapon-damage-cloak,N/A,N/A,fixed:reduced-threat-cloak,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Sawyer's Kneepads,N/A,N/A,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:explosive-resistance-gear-minor,fixed:health-gear-minor,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
+Acosta Kneepads,N/A,N/A,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,type:gear-offensive-minor,type:gear-defensive-minor,N/A,fixed:Escape Plan,N/A,N/A,N/A
+Blacklisters,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Ostracize,N/A,N/A,N/A
+NinjaBike Messenger Kneepads,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Parkour!,N/A,N/A,N/A
+Nurse's Kneepads,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Impervious,N/A,N/A,N/A
