@@ -26,6 +26,8 @@ has actually been measured — a description that merely looks wrong is not an e
 | `gear/gear_talents.csv` | Symphony | `description` | `all bonuses are multiplied by 2` | `all bonuses are multiplied by 1.5` | isac-build-engine `docs/research/talents/symphony.md` |
 | `gear/gear_talents.csv` | Signature Moves | `description` | `+50% Weapon Damage` | `+50% Amplified Weapon Damage` | isac-build-engine `docs/research/talents/signature-moves.md` |
 | `gear/gear_talents.csv` | Point of Honor | `description` | `from 4% to 7%` | `from 4% to 7.2%` | community testing; no recorded measurement |
+| `gear/gear_talents.csv` | Decoy King | `description` | `all damage you deal will be Amplified by 5%` | `weapon damage you deal will be Amplified by 5%` | isac-build-engine `docs/research/talents/decoy-king.md` |
+| `gear/gear_talents.csv` | Over the top | `description` | `+25% weapon damage` | `+25% total weapon damage` | community testing; no recorded measurement |
 
 ## This list is never complete
 

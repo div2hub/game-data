@@ -247,3 +247,7 @@ Clean Cut Optics,optics,N/A,critical-hit-chance:15%
 Harness Buckle Magazine,magazine,N/A,magazine-size:10
 Sawtooth Muzzle,muzzle,N/A,reload-speed:10%
 Helve Underbarrel,underbarrel,N/A,weapon-handling:10%
+Vertigo Optics,optics,N/A,critical-hit-chance:15%
+Vertigo Magazine,magazine,N/A,magazine-size:50
+Vertigo Muzzle,muzzle,N/A,rate-of-fire:10%
+Vertigo Underbarrel,underbarrel,N/A,reload-speed:15%
