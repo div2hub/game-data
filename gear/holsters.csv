@@ -67,7 +67,7 @@ Core Strength Holster,N/A,Core Strength,FALSE,FALSE,type:gear-core,N/A,N/A,type:
 Ember Engine Holster,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Forge,Richter & Kaiser GmbH,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:shield-health-forge,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Ammo Dump,Badger Tuff,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:ammo-capacity-ammo-dump,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A
-Picaros Holster,Brazos de Arcabuz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-damage-picaros-holster,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Picaros Holster,Brazos de Arcabuz,N/A,TRUE,FALSE,type:gear-core|!weapon-damage-gear-core,N/A,N/A,fixed:weapon-damage-picaros-holster,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Spot-On,Urban Lookout,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:accuracy-spot-on,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Salvo,Unit Alloys,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:rate-of-fire-salvo,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Claws Out,Wyvern Wear,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:melee-damage-claws-out,type:gear-minor,fixed:pistol-damage-claws-out,N/A,N/A,N/A,N/A
