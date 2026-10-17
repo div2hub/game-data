@@ -147,8 +147,8 @@ Sacrum Muzzle,muzzle,N/A,optimal-range:20%
 Sacrum Underbarrel,underbarrel,N/A,stability:20%
 Shroud Scope,optics,N/A,headshot-damage:25%
 Shroud Magazine,magazine,N/A,reload-speed:20%
-Shroud Muzzle,muzzle,N/A,headshot-damage:20%
-Shroud Underbarrel,underbarrel,N/A,critical-hit-damage:5%
+Shroud Muzzle,muzzle,N/A,weapon-handling:10%
+Shroud Underbarrel,underbarrel,N/A,headshot-damage:20%
 Judgement's Glare,optics,N/A,headshot-damage:45%
 Tuned-tension Spring,magazine,N/A,magazine-size:5
 Punctuating Barrel,muzzle,N/A,critical-hit-chance:15%
@@ -178,8 +178,8 @@ Merciless Optics,optics,N/A,critical-hit-chance:15%
 Merciless Magazine,magazine,N/A,reload-speed:10%
 Merciless Muzzle,muzzle,N/A,stability:15%
 Merciless Grip,underbarrel,N/A,weapon-handling:15%
-Unid Custom Russian Sight,optics,N/A,accuracy:15%
-Ruthless Magazine,magazine,N/A,reload-speed:15%
+Unidentified Custom Russian Sight,optics,N/A,critical-hit-chance:15%
+Ruthless Magazine,magazine,N/A,reload-speed:10%
 Mayhem's Muzzle,muzzle,N/A,stability:15%
 Ruthless Grip,underbarrel,N/A,weapon-handling:15%
 Predatory Optics,optics,N/A,critical-hit-chance:15%
