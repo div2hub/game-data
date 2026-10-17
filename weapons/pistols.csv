@@ -14,6 +14,7 @@ Mozambique Special,sidearm,M1911,TRUE,FALSE,117435.5,310,7,2.33,12,100,type:opti
 Maxim 9,sidearm,Maxim,TRUE,FALSE,125413.8,280,17,1.39,16,100,N/A,type:mag-pistol,N/A,N/A,fixed:Perfect Spike,fixed:pistol-damage-maxim-9,N/A,N/A,fixed:headshot-damage-maxim-9,N/A,N/A
 Military M9,sidearm,M9,FALSE,FALSE,102584.5,350,15,1.90,16,100,N/A,type:mag-pistol,type:muzzle-9mm,N/A,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Officer's M9 A1,sidearm,M9,FALSE,FALSE,95697.5,350,15,1.96,16,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
+The Crooked Strap,sidearm,M9,TRUE,FALSE,95697.5,350,15,1.96,16,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,fixed:Perfect Flatline,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Mosquito,sidearm,M9,FALSE,TRUE,102584.5,350,15,1.9,16,100,N/A,fixed:Mosquito Magazine,fixed:Mosquito Muzzle,N/A,fixed:Mosquito Song,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 P320 XCompact,sidearm,P320,TRUE,FALSE,87540.8,380,17,1.77,12,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,fixed:Perfect Preservation,fixed:pistol-damage-p320-xcompact,N/A,N/A,fixed:damage-to-armor-p320-xcompact,N/A,N/A
 Custom PF45,sidearm,PF45,FALSE,FALSE,93962.5,370,10,1.77,14,100,type:optics-micro,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
