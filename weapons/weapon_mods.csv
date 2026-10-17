@@ -133,13 +133,13 @@ Pakhan Optic,optics,N/A,weapon-damage:15%
 Pakhan Magazine,magazine,N/A,magazine-size:20
 Pakhan Muzzle,muzzle,N/A,critical-hit-chance:15%
 Pakhan Underbarrel,underbarrel,N/A,reload-speed:10%
-Anti-Glint Coated Sight,optics,N/A,headshot-damage:40%
-Well-Oiled Machine,magazine,N/A,reload-speed:10%
-Wrapped Suppressor,muzzle,N/A,critical-hit-chance:5%
-Ghillie Frame,underbarrel,N/A,stability:10%
+Anti-Glint Coated Sight,optics,N/A,headshot-damage:45%
+Well-Oiled Machine,magazine,N/A,reload-speed:20%
+Wrapped Suppressor,muzzle,N/A,weapon-handling:5%
+Ghillie Frame,underbarrel,N/A,weapon-handling:5%
 Nemesis Digital Scope,optics,N/A,headshot-damage:45%
-Nemesis Bolt,magazine,N/A,reload-speed:10%
-Nemesis Barrel,muzzle,N/A,critical-hit-damage:5%
+Nemesis Bolt,magazine,N/A,reload-speed:20%
+Nemesis Barrel,muzzle,N/A,weapon-handling:5%
 Nemesis Bipod,underbarrel,N/A,weapon-handling:5%
 Sacrum Sight,optics,N/A,headshot-damage:20%
 Sacrum Magazine,magazine,N/A,headshot-damage:10%
@@ -149,10 +149,10 @@ Shroud Scope,optics,N/A,headshot-damage:25%
 Shroud Magazine,magazine,N/A,reload-speed:20%
 Shroud Muzzle,muzzle,N/A,headshot-damage:20%
 Shroud Underbarrel,underbarrel,N/A,critical-hit-damage:5%
-Judgement's Glare,optics,N/A,headshot-damage:40%
-Tuned-tension Spring,magazine,N/A,weapon-handling:15%
-Punctuating Barrel,muzzle,N/A,critical-hit-chance:10%
-Fearless Frame,underbarrel,N/A,stability:10%
+Judgement's Glare,optics,N/A,headshot-damage:45%
+Tuned-tension Spring,magazine,N/A,magazine-size:5
+Punctuating Barrel,muzzle,N/A,critical-hit-chance:15%
+Fearless Frame,underbarrel,N/A,weapon-handling:15%
 Tempest Magazine,magazine,N/A,stability:50%
 Tempest Muzzle,muzzle,N/A,critical-hit-chance:15%
 Engraved Drum,magazine,N/A,reload-speed:10%
@@ -167,14 +167,14 @@ Bee's Focus,optics,N/A,optimal-range:25%
 Bee's Speed,magazine,N/A,reload-speed:10%
 Bee's Purpose,muzzle,N/A,stability:10%
 Bee's Strength,underbarrel,N/A,critical-hit-chance:5%
-Bittersweet Scope,optics,N/A,headshot-damage:5%
+Bittersweet Scope,optics,N/A,critical-hit-chance:15%
 Bittersweet Magazine,magazine,N/A,magazine-size:10
-Bittersweet Underbarrel,underbarrel,N/A,headshot-damage:5%
+Bittersweet Underbarrel,underbarrel,N/A,headshot-damage:10%
 Doctor's Sight,optics,N/A,accuracy:10%
 Home's Magazine,magazine,N/A,reload-speed:10%
 Doctor's Perseverance,muzzle,N/A,stability:10%
 Doctor's Grip,underbarrel,N/A,weapon-handling:10%
-Merciless Optics,optics,N/A,accuracy:15%
+Merciless Optics,optics,N/A,critical-hit-chance:15%
 Merciless Magazine,magazine,N/A,reload-speed:10%
 Merciless Muzzle,muzzle,N/A,stability:15%
 Merciless Grip,underbarrel,N/A,weapon-handling:15%
@@ -182,15 +182,15 @@ Unid Custom Russian Sight,optics,N/A,accuracy:15%
 Ruthless Magazine,magazine,N/A,reload-speed:15%
 Mayhem's Muzzle,muzzle,N/A,stability:15%
 Ruthless Grip,underbarrel,N/A,weapon-handling:15%
-Predatory Optics,optics,N/A,critical-hit-chance:5%
+Predatory Optics,optics,N/A,critical-hit-chance:15%
 Gluttonous Magazines,magazine,N/A,reload-speed:10%
 Devouring Maw,muzzle,N/A,critical-hit-damage:5%
 Wolf's Claw,underbarrel,N/A,stability:10%
-AR Scope,optics,N/A,accuracy:15%
-Simulation Magazine,magazine,N/A,magazine-size:5
+AR Scope,optics,N/A,critical-hit-chance:15%
+Simulation Magazine,magazine,N/A,magazine-size:20
 Velocity Amplifier,muzzle,N/A,optimal-range:10%
 Loop Grip,underbarrel,N/A,stability:15%
-Diamondback Dot Sight,optics,N/A,accuracy:10%
+Diamondback Dot Sight,optics,N/A,critical-hit-damage:15%
 Diamondback Lever,magazine,N/A,reload-speed:10%
 Diamondback Ornamentation,muzzle,N/A,critical-hit-damage:15%
 Diamondback Grip,underbarrel,N/A,stability:10%

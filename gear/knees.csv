@@ -72,7 +72,7 @@ Emperor's Guard,Murakami Industries,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:
 Grease,Shiny Monkey,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-grease,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Cloak,Imminence Armaments,N/A,TRUE,FALSE,fixed:weapon-damage-cloak,N/A,N/A,fixed:reduced-threat-cloak,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Sawyer's Kneepads,N/A,N/A,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,fixed:explosive-resistance-gear-minor,fixed:health-gear-minor,N/A,fixed:Stand Your Ground,N/A,N/A,N/A
-Acosta Kneepads,N/A,N/A,FALSE,TRUE,fixed:armor-gear-core,N/A,N/A,type:gear-offensive-minor,type:gear-defensive-minor,N/A,fixed:Escape Plan,N/A,N/A,N/A
+Acosta Kneepads,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,type:gear-offensive-minor,type:gear-defensive-minor,N/A,fixed:Escape Plan,N/A,N/A,N/A
 Blacklisters,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Ostracize,N/A,N/A,N/A
 NinjaBike Messenger Kneepads,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Parkour!,N/A,N/A,N/A
 Nurse's Kneepads,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Impervious,N/A,N/A,N/A
