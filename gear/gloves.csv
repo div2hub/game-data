@@ -39,6 +39,7 @@ Urban Lookout Gloves,Urban Lookout,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:g
 Zwiadowka Sp. z o.o. Gloves,Zwiadowka Sp. z o.o.,N/A,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Aces & Eights Gloves,N/A,Aces & Eights,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Aegis Gloves,N/A,Aegis,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
+Apex Protocol Gloves,N/A,Apex Protocol,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Breaking Point Gloves,N/A,Breaking Point,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Cavalier Gloves,N/A,Cavalier,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Concentrated Company Gloves,N/A,Concentrated Company,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
@@ -73,5 +74,6 @@ Firm Handshake,Sokolov Concern,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:statu
 Bloody Knuckles,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Over the top,N/A,N/A,N/A
 BTSU Datagloves,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Transference Overclock,N/A,N/A,N/A
 Exodus Gloves,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Smoke Screen,N/A,N/A,N/A
+Loaded for Bear,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Afterburn,N/A,N/A,N/A
 Overdogs,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Weakest Link,N/A,N/A,N/A
 Rugged Gauntlets,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Iron Grip,N/A,N/A,N/A

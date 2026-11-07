@@ -1,6 +1,7 @@
 name,default_core_stat_id,1pc_bonus,2pc_bonus,3pc_bonus,4pc_bonus
 Aces & Eights,weapon-damage,N/A,stat:marksman-rifle-damage:30%|stat:rifle-damage:30%,stat:headshot-damage:30%|stat:weapon-handling:30%,talent:Dead Man's Hand
 Aegis,armor,N/A,stat:health:70%,stat:total-armor:15%,talent:Stoic
+Apex Protocol,weapon-damage,N/A,stat:weapon-damage:10%|stat:skill-damage:10%,stat:weapon-handling:15%|stat:hazard-protection:15%,talent:Apex Engine
 Breaking Point,weapon-damage,N/A,stat:rifle-damage:30%|stat:marksman-rifle-damage:30%,stat:headshot-damage:30%|stat:weapon-handling:30%,talent:On Point
 Cavalier,armor,N/A,stat:hazard-protection:30%,stat:repair-skills:40%,talent:Charging
 Concentrated Company,weapon-damage,N/A,stat:weapon-damage:10%,stat:weapon-handling:30%,talent:Camaraderie
