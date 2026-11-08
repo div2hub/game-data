@@ -69,6 +69,7 @@ melee-damage-claws-out,melee-damage,500%,500%,750%,N/A,offensive,0.1%
 pistol-damage-claws-out,pistol-damage,10%,10%,15%,N/A,offensive,0.1%
 armor-on-kill-deathgrips,armor-on-kill,10%,10%,15%,N/A,defensive,0.1%
 damage-to-armor-contractors-gloves,damage-to-armor,8%,8%,12%,N/A,offensive,0.1%
+damage-to-armor-specters-gloves,damage-to-armor,8%,8%,12%,N/A,offensive,0.1%
 skill-health-motherly-love,skill-health,25%,25%,37.5%,N/A,skill,0.1%
 weapon-handling-eagles-grasp,weapon-handling,15%,15%,22.5%,N/A,offensive,0.1%
 status-effects-firm-handshake,status-effects,16%,16%,24%,N/A,skill,0.1%

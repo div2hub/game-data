@@ -68,6 +68,7 @@ Core Strength Gloves,N/A,Core Strength,FALSE,FALSE,type:gear-core,N/A,N/A,type:g
 Ember Engine Gloves,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Deathgrips,5.11 Tactical,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:armor-on-kill-deathgrips,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Contractor's Gloves,Petrov Defense Group,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:damage-to-armor-contractors-gloves,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Specter's Gloves,"Walker, Harris & Co.",N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:damage-to-armor-specters-gloves,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Motherly Love,Alps Summit Armaments,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:skill-health-motherly-love,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Eagles Grasp,Zwiadowka Sp. z o.o.,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-handling-eagles-grasp,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Firm Handshake,Sokolov Concern,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-firm-handshake,type:gear-minor,N/A,N/A,N/A,N/A,N/A
