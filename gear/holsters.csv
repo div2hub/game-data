@@ -65,7 +65,7 @@ True Patriot Holster,N/A,True Patriot,FALSE,FALSE,type:gear-core,N/A,N/A,type:ge
 Umbra Initiative Holster,N/A,Umbra Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Virtuoso Holster,N/A,Virtuoso,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Core Strength Holster,N/A,Core Strength,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
-Ember Engine Holster,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+Ember Engine Holster,N/A,Ember Engine,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,N/A,N/A,N/A
 Forge,Richter & Kaiser GmbH,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:shield-health-forge,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Ammo Dump,Badger Tuff,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:ammo-capacity-ammo-dump,type:gear-minor,type:gear-minor,N/A,N/A,N/A,N/A
 Picaros Holster,Brazos de Arcabuz,N/A,TRUE,FALSE,type:gear-core|!weapon-damage-gear-core,N/A,N/A,fixed:weapon-damage-picaros-holster,type:gear-minor,N/A,N/A,N/A,N/A,N/A
