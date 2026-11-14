@@ -117,14 +117,14 @@ Chameleon Dampener,muzzle,N/A,accuracy:20%
 Chameleon Grip,underbarrel,N/A,stability:10%
 Built-in Scope (8x),optics,N/A,critical-hit-chance:5%
 Lightning Sight,optics,N/A,reload-speed:20%
-Deauthentication Frame,magazine,N/A,weapon-handling:20%
+Deauthentication Frame,magazine,N/A,weapon-handling:15%
 Overclock Muzzle,muzzle,N/A,rate-of-fire:20%
-Dropkick Grip,underbarrel,N/A,stability:20%
+Dropkick Grip,underbarrel,N/A,stability:10%
 Plagued Magazine,magazine,N/A,rate-of-fire:10%
 Plagued Muzzle,muzzle,N/A,accuracy:10%
 Caution Tape,underbarrel,N/A,stability:10%
 Bellows,magazine,N/A,magazine-size:35
-Dragon Horns,muzzle,N/A,critical-hit-chance:10%
+Dragon Horns,optics,N/A,critical-hit-chance:10%
 Scales,underbarrel,N/A,critical-hit-damage:20%
 Mag of Holding,magazine,N/A,N/A
 Gold Plated Muzzle,muzzle,N/A,critical-hit-chance:15%
