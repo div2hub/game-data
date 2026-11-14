@@ -108,7 +108,7 @@ From the Shadows,N/A,"Increases max stacks for Into the Light from 50 to 100, st
 Heatstroke,N/A,+40% Amplified Weapon Damage to enemies set on fire by the Ortiz Incinerator Turret Prototype. +25% Ortiz Incinerator Turret Prototype Range.
 Hivemind,N/A,Decrease the Overcharge cooldown from 40s to 25s.
 Improved Dampeners,N/A,Decrease the Duration and Range reduction from 90% to 25%.
-Improved Materials,N/A,Decreases time taken for Makeshift Repairs from 10s to 5s.
+Improved Materials,N/A,Increase Makeshift Repairs from 25% to 35%.
 Inner Core,N/A,Increase the percentage of the bonuses you receive from the other Cores from 40% to 75%.
 Increased Interest,N/A,"For PvE: Increase the repairs received from Return to Sender from 10% to 25%, and from 20% to 35%. For PvP: Increase the repairs received from Return to Sender from 5% to 15%, and from 10% to 20%."
 Into the Light,N/A,"Increases max stacks for From the Shadows from 50 to 100, stack gain from 10 to 20."
@@ -129,7 +129,7 @@ Point of no Return,N/A,Increase On Point bonuses timer from 20s to 40s.
 Polyethylene Plating,N/A,Increase Stoic Damage Resistance bonus from 4% to 5%.
 Positive Reinforcement,N/A,Increases Feedback Loop skill damage and repair bonus from +10% to +25%.
 Press the Advantage,N/A,Increases max stacks for Striker's Gamble from 100 to 200. 3 stacks lost per second between 101 and 200 stacks.
-Process Refinery,N/A,Increases Makeshift Repairs from 25% over 10s to 35% over 10s.
+Process Refinery,N/A,Decreases time taken for Makeshift Repairs from 10s to 5s.
 Proliferation,N/A,Increases Indirect Transmission range from 10m to 15m. Increases refresh percentage from 50% to 75%.
 Risk Management,N/A,Increases total weapon damage gained per stack of Striker's Gamble from 0.65% to 0.9%.
 Safe Charging,N/A,Charging gives 10% protection per second.
