@@ -73,6 +73,7 @@ Specter's Gloves,"Walker, Harris & Co.",N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fi
 Motherly Love,Alps Summit Armaments,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:skill-health-motherly-love,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Eagles Grasp,Zwiadowka Sp. z o.o.,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:weapon-handling-eagles-grasp,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Firm Handshake,Sokolov Concern,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:status-effects-firm-handshake,type:gear-minor,N/A,N/A,N/A,N/A,N/A
+Thrive,Gila Guard,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,fixed:health-thrive,N/A,N/A,N/A,N/A,N/A
 Bloody Knuckles,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Over the top,N/A,N/A,N/A
 BTSU Datagloves,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Transference Overclock,N/A,N/A,N/A
 Exodus Gloves,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Smoke Screen,N/A,N/A,N/A

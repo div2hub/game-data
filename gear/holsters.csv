@@ -74,6 +74,8 @@ Spot-On,Urban Lookout,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:accuracy-spot-
 Salvo,Unit Alloys,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:rate-of-fire-salvo,type:gear-minor,N/A,N/A,N/A,N/A,N/A
 Claws Out,Wyvern Wear,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,fixed:melee-damage-claws-out,type:gear-minor,fixed:pistol-damage-claws-out,N/A,N/A,N/A,N/A
 Bulldog,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,N/A,N/A,N/A
+Siphon,Belstone Armory,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,fixed:incoming-repairs-siphon,N/A,N/A,N/A,N/A,N/A
+Hearty,Palisade Steelworks,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,fixed:health-hearty,N/A,N/A,N/A,N/A,N/A
 Centurion Scabbard,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:weapon-handling-gear-minor,N/A,fixed:Counter,N/A,N/A,N/A
 Dodge City Gunslinger's Holster,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:weapon-handling-gear-minor,fixed:headshot-damage-gear-minor,N/A,fixed:Quick Draw,N/A,N/A,N/A
 Imperial Dynasty,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:status-effects-gear-minor,fixed:hazard-protection-gear-minor,N/A,fixed:Dragon's Glare,N/A,N/A,N/A
