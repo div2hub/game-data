@@ -108,7 +108,7 @@ From the Shadows,N/A,"Increases max stacks for Into the Light from 50 to 100, st
 Heatstroke,N/A,+40% Amplified Weapon Damage to enemies set on fire by the Ortiz Incinerator Turret Prototype. +25% Ortiz Incinerator Turret Prototype Range.
 Hivemind,N/A,Decrease the Overcharge cooldown from 40s to 25s.
 Improved Dampeners,N/A,Decrease the Duration and Range reduction from 90% to 25%.
-Improved Materials,N/A,Increase Makeshift Repairs from 25% to 35%.
+Improved Materials,N/A,Increase Makeshift Repairs from 35% to 50%.
 Inner Core,N/A,Increase the percentage of the bonuses you receive from the other Cores from 50% to 80%.
 Increased Interest,N/A,"For PvE: Increase the repairs received from Return to Sender from 10% to 25%, and from 20% to 35%. For PvP: Increase the repairs received from Return to Sender from 5% to 15%, and from 10% to 20%."
 Into the Light,N/A,"Increases max stacks for From the Shadows from 50 to 100, stack gain from 10 to 20."
@@ -129,7 +129,7 @@ Point of no Return,N/A,Increase On Point bonuses timer from 20s to 40s.
 Polyethylene Plating,N/A,Increase Stoic Damage Resistance bonus from 5% to 8%.
 Positive Reinforcement,N/A,Increases Feedback Loop skill damage and repair bonus from +10% to +25%.
 Press the Advantage,N/A,Increases max stacks for Striker's Gamble from 100 to 200. 3 stacks lost per second between 101 and 200 stacks.
-Process Refinery,N/A,Decreases time taken for Makeshift Repairs from 10s to 5s.
+Process Refinery,N/A,Decreases time taken for Makeshift Repairs from 5s to 3s.
 Proliferation,N/A,Increases Indirect Transmission range from 10m to 15m. Increases refresh percentage from 50% to 75%.
 Risk Management,N/A,Increases total weapon damage gained per stack of Striker's Gamble from 0.65% to 0.9%.
 Safe Charging,N/A,Charging gives 10% protection per second.
@@ -155,7 +155,7 @@ Bleeding Edge,N/A,Shooting enemies within 15m applies bleed to the target. Repai
 Bob and Weave,N/A,Receive repairs of 5% of your Total Armor for every 1m run in cover-to-cover. Damage taken while doing a cover-to-cover is healed over 10s.
 Bond,N/A,"Both you and Allies receive +30% Critical Hit Damage, +15% Skill Efficiency and +2% Armor Regen when an Ally is within 10m of you. Receive +15% Critical Hit Damage, +7.5% Skill Efficiency and +1% Armor Regen when one of your Skills is within 10m of you. Only the highest group of buffs can be active at one time."
 Camaraderie,N/A,"Shooting an enemy marks them for 10 seconds. When a marked enemy dies, receive one stack of 4% Weapon Damage and 3% Critical Hit Damage for each Ally or Skill that has contributed to killing that enemy. Max stacks is 35. Stacks decay every 10 seconds. Maximum amount of marks that can be placed is 4."
-Challenger,N/A,Recieve +25% Damage resistance from enemies within 20m.
+Challenger,N/A,Recieve +35% Damage resistance from enemies within 25m.
 Charging,N/A,"For each second spent out of cover during combat, Agents will get 5% reduced incoming skill damage. Max 50%. Charged: While fully charged, gain immunity to any movement speed debuff and share this with all of the agents hazard protection and the incoming skill damage with all allies for 10 seconds. After Charged is consumed, Charging buff will resume if still in combat and out of cover."
 Chemical Agent,N/A,"Catalysis: Dealing and receiving status effects (Burn, Bleed, Shock, EMP/Disrupt, Poison and blind/disorient) builds stacks of Catalysis to a maximum of 12. Each stack grants: +2% Weapon Damage, +2% Status Effects. Each enemy within 25 Meters that is affected by a status effect grants +1 stack/sec. Being affected by status effects grants +2 stacks/sec. Stacks decay at 1 stack/sec after 5s if no enemies in the radius or you are affected by status effects. Reactant: At max stacks, killing a status-affected enemy grants bonuses for 5s: +25% bonus armor."
 Combat Medic,N/A,"+80% Revive Speed. -50% Weakened Debuff timer. +45% Hive efficiency. Provides +50% damage resistance to both agents while reviving or being revived, and for 5s after a successful Hive Revive, or 10s after a Manual Revive. Any successful revives provide +1 Skill tier for 5s. Revives at skill tier 6 grant Overcharge for 15s."

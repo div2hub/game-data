@@ -93,46 +93,46 @@ Compact Coupled Small  Laser Pointer,underbarrel,underbarrel-gadget,critical-hit
 Compact Coupled Laser Pointer,underbarrel,underbarrel-gadget,headshot-damage:10%
 Fire Select Scope,optics,N/A,headshot-damage:40%
 Tension Spring Magazine,magazine,N/A,reload-speed:20%
-Carbon Steel Muzzle,muzzle,N/A,accuracy:20%
-Bighorn Horn Grip,underbarrel,N/A,stability:20%
+Carbon Steel Muzzle,muzzle,N/A,accuracy:40%
+Bighorn Horn Grip,underbarrel,N/A,critical-hit-chance:15%
 Strega Optic,optics,N/A,critical-hit-damage:5%
 Strega Magazine,magazine,N/A,magazine-size:20
-Strega Muzzle,muzzle,N/A,critical-hit-chance:5%
+Strega Muzzle,muzzle,N/A,critical-hit-chance:15%
 Senate Grip,underbarrel,N/A,weapon-handling:10%
 Conductor Rail,optics,N/A,critical-hit-damage:15%
-Insulated Magazine,magazine,N/A,magazine-size:30
+Insulated Magazine,magazine,N/A,magazine-size:40
 Overcharged Muzzle,muzzle,N/A,critical-hit-chance:15%
 Insulated Grip,underbarrel,N/A,weapon-handling:10%
 Eagle Eye Sight,optics,N/A,critical-hit-chance:15%
 Bullet Eyrie,magazine,N/A,magazine-size:30
 Jagged Beak,muzzle,N/A,critical-hit-damage:20%
 Talon Grip,underbarrel,N/A,weapon-handling:10%
-Conductive Focal,optics,N/A,critical-hit-chance:10%
+Conductive Focal,optics,N/A,critical-hit-chance:15%
 Voltage Generator,magazine,N/A,magazine-size:11
-Discharge Electrode,muzzle,N/A,critical-hit-damage:30%
+Discharge Electrode,muzzle,N/A,critical-hit-damage:20%
 Dielectric Safety Grip,underbarrel,N/A,weapon-handling:10%
 Chameleon Optics,optics,N/A,critical-hit-chance:15%
 Chameleon ActivCamo,magazine,N/A,magazine-size:20
-Chameleon Dampener,muzzle,N/A,accuracy:20%
-Chameleon Grip,underbarrel,N/A,stability:10%
+Chameleon Dampener,muzzle,N/A,accuracy:30%
+Chameleon Grip,underbarrel,N/A,stability:30%
 Built-in Scope (8x),optics,N/A,critical-hit-chance:5%
 Lightning Sight,optics,N/A,reload-speed:20%
 Deauthentication Frame,magazine,N/A,weapon-handling:15%
 Overclock Muzzle,muzzle,N/A,rate-of-fire:20%
-Dropkick Grip,underbarrel,N/A,stability:10%
+Dropkick Grip,underbarrel,N/A,critical-hit-chance:15%
 Plagued Magazine,magazine,N/A,rate-of-fire:10%
-Plagued Muzzle,muzzle,N/A,accuracy:10%
+Plagued Muzzle,muzzle,N/A,critical-hit-chance:15%
 Caution Tape,underbarrel,N/A,stability:10%
 Bellows,magazine,N/A,magazine-size:35
-Dragon Horns,optics,N/A,critical-hit-chance:10%
-Scales,underbarrel,N/A,critical-hit-damage:20%
-Mag of Holding,magazine,N/A,N/A
+Dragon Horns,optics,N/A,critical-hit-chance:15%
+Scales,underbarrel,N/A,critical-hit-damage:30%
+Mag of Holding,magazine,N/A,rate-of-fire:10%
 Gold Plated Muzzle,muzzle,N/A,critical-hit-chance:15%
 Solid Gold Bipod,underbarrel,N/A,stability:20%
 Pakhan Optic,optics,N/A,weapon-damage:15%
 Pakhan Magazine,magazine,N/A,magazine-size:20
 Pakhan Muzzle,muzzle,N/A,critical-hit-chance:15%
-Pakhan Underbarrel,underbarrel,N/A,reload-speed:10%
+Pakhan Underbarrel,underbarrel,N/A,weapon-handling:15%
 Anti-Glint Coated Sight,optics,N/A,headshot-damage:45%
 Well-Oiled Machine,magazine,N/A,reload-speed:20%
 Wrapped Suppressor,muzzle,N/A,weapon-handling:5%
@@ -157,8 +157,8 @@ Tempest Magazine,magazine,N/A,stability:50%
 Tempest Muzzle,muzzle,N/A,critical-hit-chance:15%
 Engraved Drum,magazine,N/A,reload-speed:10%
 Engraved Muzzle,muzzle,N/A,accuracy:20%
-Mosquito Magazine,magazine,N/A,reload-speed:15%
-Mosquito Muzzle,muzzle,N/A,accuracy:15%
+Mosquito Magazine,magazine,N/A,critical-hit-chance:15%
+Mosquito Muzzle,muzzle,N/A,weapon-handling:15%
 Liberty Sight,optics,N/A,headshot-damage:5%
 Liberty Grip,magazine,N/A,weapon-handling:15%
 Liberty Customs,muzzle,N/A,critical-hit-chance:5%
@@ -171,7 +171,7 @@ Bittersweet Scope,optics,N/A,critical-hit-chance:15%
 Bittersweet Magazine,magazine,N/A,magazine-size:10
 Bittersweet Underbarrel,underbarrel,N/A,headshot-damage:10%
 Doctor's Sight,optics,N/A,accuracy:10%
-Home's Magazine,magazine,N/A,reload-speed:10%
+Home's Magazine,magazine,N/A,magazine-size:15
 Doctor's Perseverance,muzzle,N/A,stability:10%
 Doctor's Grip,underbarrel,N/A,weapon-handling:10%
 Merciless Optics,optics,N/A,critical-hit-chance:15%
@@ -195,14 +195,14 @@ Diamondback Lever,magazine,N/A,reload-speed:10%
 Diamondback Ornamentation,muzzle,N/A,critical-hit-damage:15%
 Diamondback Grip,underbarrel,N/A,stability:10%
 Ballistic Rail,optics,N/A,critical-hit-damage:15%
-Riot Magazine,magazine,N/A,reload-speed:15%
-Fortified Grip,underbarrel,N/A,stability:20%
+Riot Magazine,magazine,N/A,weapon-handling:15%
+Fortified Grip,underbarrel,N/A,critical-hit-chance:15%
 Damaged Optics,optics,N/A,accuracy:15%
-Hardened Grip,underbarrel,N/A,optimal-range:25%
+Hardened Grip,underbarrel,N/A,critical-hit-chance:15%
 Outcast Optics,optics,N/A,accuracy:15%
 Modified Feed System,magazine,N/A,reload-speed:15%
-Stunner,underbarrel,N/A,optimal-range:25%
-Starlight Receptors,optics,N/A,critical-hit-chance:10%
+Stunner,underbarrel,N/A,critical-hit-chance:15%
+Starlight Receptors,optics,N/A,critical-hit-chance:15%
 Venom Glands,magazine,N/A,reload-speed:10%
 Aculeus,muzzle,N/A,stability:10%
 Chelae Grip,underbarrel,N/A,weapon-handling:10%
@@ -214,9 +214,9 @@ Gaze of Death,optics,N/A,critical-hit-chance:15%
 Death's Hand,magazine,N/A,reload-speed:10%
 Death's Maw,muzzle,N/A,critical-hit-damage:10%
 Kiss of Death,underbarrel,N/A,melee-damage:500%
-Infinity Sights,optics,N/A,critical-hit-damage:10%
-Serpent Magazine,magazine,N/A,reload-speed:25%
-Weather-Resistant Muzzle,muzzle,N/A,rate-of-fire:10%
+Infinity Sights,optics,N/A,critical-hit-damage:25%
+Serpent Magazine,magazine,N/A,magazine-size:25
+Weather-Resistant Muzzle,muzzle,N/A,rate-of-fire:17%
 Light Heavy-Duty Grip,underbarrel,N/A,critical-hit-chance:10%
 Oxpecker Optic,optics,N/A,optimal-range:50%
 Oxpecker Muzzle,muzzle,N/A,magazine-size:10
@@ -225,7 +225,7 @@ Modified Optics,optics,N/A,critical-hit-chance:15%
 Chatterbox Magazine,magazine,N/A,magazine-size:10
 Chatterbox Muzzle,muzzle,N/A,critical-hit-damage:15%
 Chatterbox Canister,underbarrel,N/A,weapon-handling:10%
-Agitator Scope,optics,N/A,critical-hit-chance:10%
+Agitator Scope,optics,N/A,critical-hit-chance:15%
 Agitator Magazine,magazine,N/A,magazine-size:20
 Agitator Muzzle,muzzle,N/A,swap-speed:50%
 Whiplash Optics,optics,N/A,critical-hit-damage:10%
@@ -258,3 +258,5 @@ August Optics,optics,N/A,headshot-damage:40%
 August Magazine,magazine,N/A,magazine-size:20
 August Muzzle,muzzle,N/A,critical-hit-chance:15%
 August Underbarrel,underbarrel,N/A,accuracy:20%
+Sheriff Muzzle,muzzle,N/A,critical-hit-chance:15%
+Big Alejandro Muzzle,muzzle,N/A,critical-hit-chance:15%
