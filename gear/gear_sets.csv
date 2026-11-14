@@ -8,6 +8,7 @@ Concentrated Company,weapon-damage,N/A,stat:weapon-damage:10%,stat:weapon-handli
 Core Strength,armor,N/A,stat:weapon-handling:10%,stat:weapon-damage:5%|stat:total-armor:5%|stat:skill-efficiency:5%,talent:Core Exercise
 Eclipse Protocol,skill-tier,N/A,stat:status-effects:15%,stat:skill-haste:15%|stat:hazard-protection:30%,talent:Indirect Transmission
 Ember Engine,skill-tier,N/A,stat:skill-efficiency:8%,stat:status-effects:30%,talent:Spontaneous Combustion
+Field General,armor,N/A,stat:weapon-handling:15%,stat:total-armor:10%|stat:skill-tier:1,talent:Helping Hand
 Foundry Bulwark,armor,N/A,stat:total-armor:10%,stat:armor-regeneration:1%|stat:shield-health:50%,talent:Makeshift Repairs
 Future Initiative,skill-tier,N/A,stat:repair-skills:30%,stat:skill-duration:30%|stat:skill-haste:15%,talent:Ground Control
 Hard Wired,skill-tier,N/A,stat:skill-haste:15%,stat:skill-damage:15%|stat:repair-skills:30%,talent:Feedback Loop

@@ -216,3 +216,7 @@ Apex Engine,N/A,"Weapon hits build stacks. Upon reaching 100 stacks, all stacks 
 Veer Failsafe,N/A,Receive +5% Armor on Kill and +10% Skill Damage per Apex Engine bonus stack.
 Veer Override,N/A,"While at maximum Apex Engine stacks, enemies damaged by your Skills are marked for 10s. Deal +20% Amplified Damage to marked enemies."
 Afterburn,N/A,"Hitting enemies applies stacks to them. An enemy cannot have more than 20 stacks applied to them. When reloading your weapon, all stacks will be consumed to deal 100% Weapon Damage per stack to the enemy they are applied on."
+Strike Order,N/A,"Enemies you aim towards for 1s become pulsed and marked for 4s. Marked enemies take +10% Amplified Damage from all sources. When a marked enemy dies, every ally involved in the kill will receive repairs of 10% of their Total Armor."
+Helping Hand,N/A,"The last enemy damaged by each of your allies is marked. An enemy can only be applied one mark at a time. Deal +40% Amplified Damage to marked enemies. Assisting in killing a marked enemy will grant every ally +10% Skill Efficiency per every 1 of your Skill Tiers, 200% of your Total Armor as Bonus Armor and +30% Damage to Targets Out of Cover for 10s. Generate an Armor Kit for you and your allies every 60s. The timer pauses when out of combat."
+Blitz,N/A,Increase the Damage to Targets Out of Cover bonus from 30% to 45%.
+Water Boy,N/A,Decrease the Armor Kit generation timer from 60s to 30s.

@@ -44,6 +44,7 @@ Breaking Point Mask,N/A,Breaking Point,FALSE,FALSE,type:gear-core,N/A,N/A,type:g
 Cavalier Mask,N/A,Cavalier,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Concentrated Company Mask,N/A,Concentrated Company,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Eclipse Protocol Mask,N/A,Eclipse Protocol,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
+Field General Mask,N/A,Field General,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Foundry Bulwark Mask,N/A,Foundry Bulwark,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Future Initiative Mask,N/A,Future Initiative,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
 Hard Wired Mask,N/A,Hard Wired,FALSE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,N/A,N/A,N/A,type:gear-mod,N/A,N/A
@@ -77,3 +78,4 @@ Coyote's Mask,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:cri
 Catalyst,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:hazard-protection-gear-minor,fixed:status-effects-gear-minor,N/A,fixed:Chemical Agent,type:gear-mod,N/A,N/A
 Tinkerer,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Abridged,type:gear-mod,N/A,N/A
 Investor,N/A,N/A,FALSE,TRUE,type:gear-core,N/A,N/A,type:gear-minor|!headshot-damage-gear-minor|!health-gear-minor|!repair-skills-gear-minor,type:gear-minor|!headshot-damage-gear-minor|!health-gear-minor|!repair-skills-gear-minor,type:gear-minor|!headshot-damage-gear-minor|!health-gear-minor|!repair-skills-gear-minor,fixed:Slotted,N/A,N/A,N/A
+Forward Observer,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,N/A,N/A,fixed:critical-hit-chance-gear-minor,fixed:critical-hit-damage-gear-minor,N/A,fixed:Strike Order,type:gear-mod,N/A,N/A

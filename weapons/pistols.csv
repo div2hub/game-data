@@ -35,5 +35,6 @@ The Harvest,sidearm,Magnum,TRUE,FALSE,256610,149,6,2.54,16,100,type:optics-short
 Regulus,sidearm,Magnum,FALSE,TRUE,282072,160,6,2.78,16,100,N/A,fixed:Engraved Drum,fixed:Engraved Muzzle,N/A,fixed:Regicide,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 X-45,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 X-45 Tactical,sidearm,X-45,FALSE,FALSE,88321,400,15,1.99,16,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
+Blackout,sidearm,X-45,TRUE,FALSE,88321,400,15,1.99,16,100,N/A,type:mag-pistol,type:muzzle-45,type:underbarrel-gadget,fixed:Perfect Technophobia,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 Kard-45,sidearm,Kriss Kard,FALSE,FALSE,114267,310,10,1.71,12,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,N/A,N/A,type:weapon-minor,N/A,N/A
 "TDI ""Kard"" Custom",sidearm,Kriss Kard,TRUE,FALSE,114267,310,10,1.71,12,100,type:optics-micro,type:mag-pistol,type:muzzle-9mm,type:underbarrel-gadget,type:pistol,fixed:pistol-damage-weapon-core,fixed:skill-tier-tdi-kard-custom,N/A,type:weapon-minor,N/A,N/A

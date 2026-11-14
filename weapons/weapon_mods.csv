@@ -254,3 +254,7 @@ Vertigo Underbarrel,underbarrel,N/A,reload-speed:15%
 The Ratel Optics,optics,N/A,critical-hit-chance:15%
 The Ratel Magazine,magazine,N/A,magazine-size:20
 The Ratel Underbarrel,underbarrel,N/A,weapon-handling:10%
+August Optics,optics,N/A,headshot-damage:40%
+August Magazine,magazine,N/A,magazine-size:20
+August Muzzle,muzzle,N/A,critical-hit-chance:15%
+August Underbarrel,underbarrel,N/A,accuracy:20%
