@@ -90,7 +90,7 @@ Momma Badger,Edelweiss GPz,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor
 Keeper,5.11 Tactical,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Protector,type:gear-mod,N/A,N/A
 Melon Baller,Airaldi Holdings,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Concussion,type:gear-mod,N/A,N/A
 Bulldog,Royal Works,N/A,TRUE,FALSE,type:gear-core,N/A,N/A,type:gear-minor,type:gear-minor,N/A,fixed:Perfect Composure,type:gear-mod,N/A,N/A
-Acosta's Go-Bag,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in the Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
+Acosta's Go-Bag,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-damage-gear-minor,fixed:skill-haste-gear-minor,N/A,fixed:One in Hand... / ...Two in the Bag,type:gear-mod,N/A,N/A
 Birdie's Quick Fix Pack,N/A,N/A,FALSE,TRUE,fixed:skill-tier-gear-core,N/A,N/A,fixed:skill-haste-gear-minor,fixed:repair-skills-gear-minor,N/A,fixed:Combat Medic,type:gear-mod,N/A,N/A
 Memento,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Kill Confirmed,type:gear-mod,N/A,N/A
 NinjaBike Messenger Backpack,N/A,N/A,FALSE,TRUE,fixed:weapon-damage-gear-core,fixed:armor-gear-core,fixed:skill-tier-gear-core,N/A,N/A,N/A,fixed:Resourceful,type:gear-mod,N/A,N/A
