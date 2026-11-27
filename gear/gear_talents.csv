@@ -100,7 +100,7 @@ Chain Combustion,N/A,Enemies set ablaze by the Ortiz Incinerator Turret Prototyp
 Cold,N/A,Stacks now supply +2.5% bonus armor.
 Complete Uptime,N/A,Cancelling your skills will reset their cooldown.
 Compiler Optimization,N/A,Decreases Hackstep Protocol cooldown from 20s to 15s.
-Critical Measures,N/A,Increases Crowd Control damage to additional marked enemies from 60% to 112%.
+Critical Measures,N/A,Increases Crowd Control damage to additional marked enemies from 65% to 122%.
 Deceit,N/A,Enemies targeting your Decoy also count towards the Stoic Damage Reduction bonus.
 Endless Hunger,N/A,Increases the duration of Apex Predator stacks from 10s to 30s.
 Fortissimo,N/A,Double the weapon damage bonus from Symphony.
@@ -121,7 +121,7 @@ Overcharged Nanites,N/A,Increase the Healing Efficiency bonus from 150% to 225%.
 Outer Core,N/A,This Talent does not provide a direct change to the Core Exercise Talent.
 Over-engineered,N/A,"While at full Armor, repairs received from Return to Sender will provide Bonus Armor, up to 80% of your Total Armor. Does not apply to allies."
 Overcharging,N/A,Increases Charging max incoming damage protection to 70%.
-Overwhelming Force,N/A,Increases the radius of disorient on Apex Predator kills from 5m to 10m.
+Overwhelming Force,N/A,Increases the radius of disorient on Apex Predator kills from 10m to 20m.
 Parabellum Rounds,N/A,Increases Hollow-Point Ammo weapon damage amplification to 60%. Does not affect party ammo.
 Patriotic Boost,N/A,"Increases Red, White, and Blue debuff strength. Red: From 15% to 30%. White: From 2% to 5%. Blue: From 10% to 20%."
 Point of Honor,N/A,Increases On Point Weapon Damage bonus from 4% to 9%.
@@ -149,7 +149,7 @@ Ablative Nano-Plating,N/A,"Whenever you or any ally's armor breaks, they gain 80
 Abridged,N/A,"If your Primary and Secondary weapon are not Exotic or Named and of the same type, the Secondary Weapon's talent will also be applied to the Primary Weapon. Doesn't apply to talents that include Weapon Swapping."
 Aggressive Recon,N/A,Getting a Signature Weapon kill gives +15% Signature Weapon Damage for 10s and +25% Reload Speed for the next reload of the weapon (the bonuses do not stack). Automatically regenerate Signature Weapon Ammo every 60s.
 Alternating Current,N/A,"Generate a stack of 2.5% skill damage on one of your skills every second, capping at 10 stacks. After 10 seconds at the cap the stacks transfer to your other skill. The process then repeats ad-infinitum."
-Apex Predator,N/A,"Enemies within 15m receive a debuff, amplifying your weapon damage against them by +35%. Killing a debuffed enemy with your weapon disorients other enemies within 5m, and amplifies weapon damage by 5% for 10s, stacking up to 5 times."
+Apex Predator,N/A,"Enemies within 15m receive a debuff, amplifying your weapon damage against them by +35%. Killing a debuffed enemy with your weapon disorients other enemies within 10m, and amplifies weapon damage by 5% for 10s, stacking up to 5 times."
 Bewildered,N/A,"When dealing Weapon Damage to an enemy, 50% of the damage will be dealt to another enemy within 30m instead. When there are no enemies nearby, deal damage normally. Does not apply to Armor Plates."
 Bleeding Edge,N/A,Shooting enemies within 15m applies bleed to the target. Repair 3-48% of your armor per second for every enemy that is bleeding within 15m. Repair strength per number of bleeding enemies: 1:3% 2:6% 3:12% 4:24% 5:48%
 Bob and Weave,N/A,Receive repairs of 5% of your Total Armor for every 1m run in cover-to-cover. Damage taken while doing a cover-to-cover is healed over 10s.
@@ -161,7 +161,7 @@ Chemical Agent,N/A,"Catalysis: Dealing and receiving status effects (Burn, Bleed
 Combat Medic,N/A,"+80% Revive Speed. -50% Weakened Debuff timer. +45% Hive efficiency. Provides +50% damage resistance to both agents while reviving or being revived, and for 5s after a successful Hive Revive, or 10s after a Manual Revive. Any successful revives provide +1 Skill tier for 5s. Revives at skill tier 6 grant Overcharge for 15s."
 Core Exercise,N/A,"For each Core attribute, receive 50% of the other two Core Attributes' bonuses. Skill Tiers count as 15% Skill Efficiency when these bonuses are applied. All pieces from this Gear Set, apart from the Backpack, will feature random Core Attributes."
 Counter,N/A,"Swapping weapons will give the following groups of bonuses one by one, in order: 1. +20% Rate of Fire, +20% Weapon Damage. 2. +50% Magazine Size, +50% Reload Speed. The bonuses remain active for 12s or until the next weapon swap. Swapping to your sidearm will not trigger the next group of bonuses."
-Crowd Control,N/A,"Critical hits mark enemies for 20s, up to 3 marks total. When you critically hit a marked enemy, all other marked enemies take 60% of the damage dealt. Whenever a marked enemy dies, gain +10% critical hit damage, stacking up to 10 times, or until combat ends."
+Crowd Control,N/A,"Critical hits mark enemies for 20s, up to 3 marks total. When you critically hit a marked enemy, all other marked enemies take 65% of the damage dealt. Whenever a marked enemy dies, gain +10% critical hit damage, stacking up to 10 times, or until combat ends."
 Dead Man's Hand,N/A,"Flip a card when landing shots with a Rifle or Marksman rifle. After 5 cards are flipped, the damage of your next shot is amplified by 75%. More shots are enhanced the better the hand revealed. Four of a Kind: 4 shots. Full House: 3 shots. Aces and Eights: 2 shots. Flip an additional card on headshots."
 Defibrillator,N/A,"While ""Shocker Punch"" is equipped, the stun received by the agent from the Shock status effect will be reduced by 50%. Using a shield will give 100% to melee damage. Using St. Elmo's Engine with the holster will give 100% extra melee damage and will make the next melee attack apply shock to the target. Using all three items will offer all of the above mentioned bonuses and the Shock from the melee attack will have a 5m radius, starting from the first target. 15 second cooldown."
 Dragon's Glare,N/A,"While in combat, applies burn to the enemy closest to you within 20m. Cooldown: 35s."
@@ -212,10 +212,10 @@ Flashpoint,N/A,Increase the chance of applying Burn of Spontaneous Combustion to
 White Hot,N/A,Increase the Duration of the Burn Damage debuff of Spontaneous Combustion by +50%
 Resolved,N/A,"Your next body shot will be considered a headshot. Cooldown: 2s Requires Equipped: Marksman Rifle, Rifle or Pistol"
 Decoy King,N/A,"While in combat, the Moon will cycle through its phases every 5s. There are 8 Moon phases. Starting from a New Moon, weapon damage you deal will be Amplified by 5%. The value of the Amplifier will increase by 5% each phase until reaching 25% during a Full Moon, then it will decrease as the Moon return to being a New Moon, restarting the cycle. During a Full Moon, deploying a Decoy will grant it Overcharge and the cycle will pause for 10s."
-Apex Engine,N/A,"Weapon hits build stacks. Upon reaching 100 stacks, all stacks are consumed to grant and refresh a stack of +1 Skill Tier and +65% Weapon Damage for 30s and reduce all active Skill Cooldowns by 10s. The maximum amount of bonus stacks that can be granted by this talent at one time is 3. Base stack decay for the weapon hits is 10 stacks every 5s. The decay is decreased by 5 stacks if two Guardian Skills are equipped. Stack decay is halted for 10s upon deploying a Guardian Skill."
+Apex Engine,N/A,"Weapon hits build stacks. Upon reaching 50 stacks, all stacks are consumed to grant and refresh a stack of +1 Skill Tier and +65% Weapon Damage for 60s and reduce all active Skill Cooldowns by 10s. The maximum amount of bonus stacks that can be granted by this talent at one time is 3. Base stack decay for the weapon hits is 10 stacks every 5s. The decay is decreased by 5 stacks if two Guardian Skills are equipped. Stack decay is halted for 10s upon deploying a Guardian Skill."
 Veer Failsafe,N/A,Receive +5% Armor on Kill and +10% Skill Damage per Apex Engine bonus stack.
 Veer Override,N/A,"While at maximum Apex Engine stacks, enemies damaged by your Skills are marked for 10s. Deal +20% Amplified Damage to marked enemies."
-Afterburn,N/A,"Hitting enemies applies stacks to them. An enemy cannot have more than 20 stacks applied to them. When reloading your weapon, all stacks will be consumed to deal 100% Weapon Damage per stack to the enemy they are applied on."
+Afterburn,N/A,"Hitting enemies applies stacks to them. An enemy cannot have more than 20 stacks applied to them. When reloading or swapping your weapon, all stacks will be consumed to deal 85% Weapon Damage per stack to the enemy they are applied on."
 Strike Order,N/A,"Enemies you aim towards for 1s become pulsed and marked for 4s. Marked enemies take +10% Amplified Damage from all sources. When a marked enemy dies, every ally involved in the kill will receive repairs of 10% of their Total Armor."
 Helping Hand,N/A,"The last enemy damaged by each of your allies is marked. An enemy can only be applied one mark at a time. Deal +40% Amplified Damage to marked enemies. Assisting in killing a marked enemy will grant every ally +10% Skill Efficiency per every 1 of your Skill Tiers, 200% of your Total Armor as Bonus Armor and +30% Damage to Targets Out of Cover for 10s. Generate an Armor Kit for you and your allies every 60s. The timer pauses when out of combat."
 Blitz,N/A,Increase the Damage to Targets Out of Cover bonus from 30% to 45%.
