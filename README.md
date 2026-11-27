@@ -22,7 +22,7 @@ Used in `core_1`, `core_2`, `core_3`, `minor_1`, `minor_2`, `minor_3` columns ac
 
 ### Attribute Compatibility Slugs
 
-The `compatibility` column in `attributes.csv` controls **dropdown eligibility ONLY**. It does not drive `fixed:` lookups (those reference the attribute row's `id` directly).
+The `compatibility` column in `attributes.csv` decides **only** which attribute rows a `type:<slug>` cell matches. A `fixed:` cell references the attribute row's `id` directly.
 
 | Slug | Used by |
 |------|---------|
@@ -38,9 +38,9 @@ The `compatibility` column in `attributes.csv` controls **dropdown eligibility O
 | `weapon-offensive-minor` | Offensive-only weapon minor restriction |
 | `weapon-skill-minor` | Skill-only weapon minor restriction |
 | `gear-mod` | Gear mod slots (in `gear_mods.csv`) |
-| `N/A` | Row never appears in any dropdown — referenced only by `fixed:<id>` cells (weapon-core attribute rows, named-item locked-value rows, and one-off rows like Claws Out's Pistol Damage gear-minor entry) |
+| `N/A` | Row matches no `type:` cell — referenced only by `fixed:<id>` cells (weapon-core attribute rows, named-item locked-value rows, and one-off rows like Claws Out's Pistol Damage gear-minor entry) |
 
-A `type:gear-minor` cell surfaces every attribute row whose `compatibility` contains `gear-minor`. A `type:gear-offensive-minor` cell surfaces only the subset whose compatibility contains that specific slug.
+A `type:gear-minor` cell matches every attribute row whose `compatibility` contains `gear-minor`. A `type:gear-offensive-minor` cell matches only the subset whose compatibility contains that specific slug.
 
 ## Delimiter
 
@@ -97,15 +97,15 @@ All pistols are `sidearm`. Sawed-Off family shotguns are `sidearm`. Everything e
 
 ## Row Key
 
-The first column of every CSV is the row key. Its value is unique within the file, and the transform fails the build on a duplicate. By convention the key column is named `id` where the file carries machine ids and `name` otherwise, but only the position is a rule.
+The first column of every CSV is the row key. Its value is unique within the file. By convention the key column is named `id` where the file carries machine ids and `name` otherwise, but only the position is a rule.
 
-Other rows point at a row by its key: `fixed:<name>` talent and mod cells, `talent:<name>` bonus cells, `brand_set` and `gear_set` cells, `stat_id` and attribute id cells, and `parent` cells in the specialization files. A reference to a key that exists in no CSV fails the build. Create the referenced row first, even when it is not complete yet.
+Other rows point at a row by its key: `fixed:<name>` talent and mod cells, `talent:<name>` bonus cells, `brand_set` and `gear_set` cells, `stat_id` and attribute id cells, and `parent` cells in the specialization files. Every referenced key must exist in a CSV. Create the referenced row first, even when it is not complete yet.
 
 ## Empty Cells
 
 A cell is filled, `N/A` (this field does not apply to this row), or empty. Empty means the value is not known yet. Never leave a cell empty for any other reason.
 
-A row with any empty cell is incomplete, and the transform leaves it out of the generated JSON. The item does not exist to the app until every cell is filled. Any row that points at a left-out row is left out too, all the way up the chain, so a new weapon whose fixed mods are still being entered stays out together with its mods. Leaving rows out is not a build failure. The transform prints each left-out row as `SKIPPED <file>:<key>` with the empty columns, in the build log only.
+A row with any empty cell is incomplete. A row that points at an incomplete row is incomplete too, all the way up the chain, so a new weapon whose fixed mods are still being entered is incomplete together with its mods.
 
 ## Known Gaps (`known_gaps.csv`)
 
