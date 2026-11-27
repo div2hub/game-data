@@ -1,5 +1,5 @@
 name,description,min_value,max_value,fidelity
-Quantum,"When taking damage, provides a {} chance of becoming immune to damage for 2s",1.6%,4.3%,0.3%
+Quantum,"When taking damage, provides a {} chance of gaining 70% damage resistance for 2s. The bonus cannot refresh while active",1.6%,4.3%,0.3%
 Echo,Every bullet fired has a {} chance to deal its damage twice,1.2%,3.0%,0.2%
 Atomize,Increases Grenade Radius and Damage by {},12.5%,21.5%,1.0%
 Amalgam,Every bullet fired has a {} chance to apply a random Status Effect. Cooldown: 5 seconds,1.6%,4.3%,0.3%
